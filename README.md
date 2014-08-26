@@ -8,3 +8,5 @@ Commit Rules:
 1. The samples you commit must be CC0. We can however give you credit (your name and email) in the about area of LMMS if you please.
 
 2. These samples have to be created/recorded by you. They can not be taken from any other commercial sample packs/libraries.
+
+P.S: When referring to "sample pack(s)," this means samples that will be up for download in the sample area on the LMMS website. (http://lmms.io/download/samples/) When referring to "sample library," this means samples that will be included in the DAW's initial sample browser.
