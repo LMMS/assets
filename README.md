@@ -1,10 +1,10 @@
-Welcome to the repository for the LMMS sample packs and library. Here you can commit your own samples for review by the managers for inclusion in either the library or as a separate pack.
+Welcome to the LMMS samples repository. Here you can commit your own samples for review by the managers for inclusion in either the library or as a separate pack.
 
 ### Commit Rules:
 
 1. The samples you commit must be CC0. We can however give you credit (your name and email) in the about area of LMMS if you please.
 
-2. These samples have to be created/recorded by you. They can not be taken from any other sample pack or library. The only exception to this rules is if you have a valid way to prove they are CC0.
+2. These samples have to be created/recorded by you. They can not be taken from any other sample pack or library. The only exception to this rule is if you have a valid way to prove they are CC0.
 
 ### Definitions:
 `Sample Packs:` These resource packs are available for download on the LMMS website. (http://lmms.io/download/samples)
