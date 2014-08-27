@@ -1,6 +1,3 @@
-Sample Packs For LMMS
-=======
-
 Welcome to the repository for the LMMS sample packs and library. Here you can commit your own samples for review by the managers for inclusion in either the library or as a separate pack.
 
 ### Commit Rules:
