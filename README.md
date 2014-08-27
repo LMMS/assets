@@ -1,12 +1,18 @@
 Sample Packs For LMMS
 =======
 
-Welcome to the repository for the LMMS sample packs and library. Here you can commit your own samples for review by the managers of the sample packs and or library.
+Welcome to the repository for the LMMS sample packs and library. Here you can commit your own samples for review by the managers for inclusion in either the library or as a separate pack.
 
-Commit Rules:
+### Commit Rules:
 
 1. The samples you commit must be CC0. We can however give you credit (your name and email) in the about area of LMMS if you please.
 
-2. These samples have to be created/recorded by you. They can not be taken from any other commercial sample packs/libraries.
+2. These samples have to be created/recorded by you. They can not be taken from any other sample pack or library. The only exception to this rules is if you have a valid way to prove they are CC0.
 
-P.S: When referring to "sample pack(s)," this means samples that will be up for download in the sample area on the LMMS website. (http://lmms.io/download/samples/) When referring to "sample library," this means samples that will be included in the DAW's initial sample browser.
+### Definitions:
+`Sample Packs:` These resource packs are available for download on the LMMS website. (http://lmms.io/download/samples)
+
+`Sample Library:` These samples are included in the default installation of LMMS. 
+
+#### Which one should I choose?
+If you have a large amount of samples, you will be better off commiting them as a Sample Pack. The Library's purpose is to have a small set of good quality samples to get users started.
