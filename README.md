@@ -2,7 +2,7 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 ### Commit Rules:
 
-1. The samples you commit must be CC0. We can however give you credit (your name and email) in the about area of LMMS if you please.
+1. The samples you commit must be [CC0](http://creativecommons.org/publicdomain/zero/1.0/). We can however give you credit (your name and email) in the about area of LMMS if you please.
 
 2. These samples have to be created/recorded by you. They can not be taken from any other sample pack or library. The only exception to this rule is if you have a valid way to prove they are CC0.
 
