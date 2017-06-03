@@ -1,3 +1,1 @@
-#Unsorted samples
-
-Legally clear samples, currently not categorised. 
+Unsorted samples are legally clear samples but currently not organised.
