@@ -17,7 +17,9 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 • The samples must be put in the the folder that best describes them. If your sample
 
 • The filenames of the samples must follow the following naming rules:
-(1) The name must be in English./n
+
+(1) The name must be in English.
+
 (2) The name should only use letters and numbers.
 
 (3) Capitalizing the first letter of the first word only.
