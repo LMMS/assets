@@ -10,27 +10,27 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 • The samples must be normalized to -3dBFS.
 
-• The samples mustn't contain unnecessary delay or start/end silence.
+• The samples must not contain unnecessary delay or start/end silence.
 
-• The samples mustn't contain noise, aliasing, pops or clicks.
+• The samples must not contain noise, aliasing, pops or clicks.
 
 • The samples must be dry (without reverberation).
 
 • The samples must be put in the the folder that best describes them. If your samples don't belong to one of the existing folders or you are not sure where to put them, please put them in the "Unsorted samples" folder.
 
-• The filenames of the samples must follow the following naming rules:
+• The samples' filenames must follow the following naming rules:
 
-(1) The name must be in English.
+(1) The filename must be in English.
 
-(2) The name should only use letters and numbers.
+(2) The filename should only use letters and numbers.
 
 (3) Capitalizing the first letter of the first word only.
 
-(4) The name must be clean and decriptive.
+(4) The filename must be clean and decriptive.
 
-An example of bad naming: best-Sound-Ever_1
+An example of bad naming: best-Sound-eva_1
 
-An example of good naming: Bass drum 1
+An example of good naming: Kick drum 1
 
 ### Definitions:
 `Sample library:` These samples are included in the default installation of LMMS. 
