@@ -14,7 +14,9 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 • The samples mustn't contain noise, aliasing, pops or clicks.
 
-• The samples must be put in the the folder that best describes them. If your sample
+• The samples must be dry (without reverberation).
+
+• The samples must be put in the the folder that best describes them. If your samples don't belong to one of the existing folders or you are not sure where to put them, please put them in the "Unsorted samples" folder.
 
 • The filenames of the samples must follow the following naming rules:
 
