@@ -1,1 +1,1 @@
-Unsorted samples are legally clear samples but currently not organised.
+"Unsorted samples" is a folder for samples that are legally clear but currently not organised.
