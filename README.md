@@ -14,7 +14,7 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 • The samples must not contain noise, aliasing, pops or clicks.
 
-• The samples must be dry (without reverberation).
+• If the samples are synthesized, they must be without added reverberation unless the reverberation is necessary for them.
 
 • The samples must be put in the the folder that best describes them. If your samples don't belong to one of the existing folders or you are not sure where to put them, please put them in the "Unsorted samples" folder.
 
@@ -26,16 +26,20 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 (3) Capitalizing the first letter of the first word only.
 
-(4) The filename must be clean and decriptive.
+(4) If the samples are tuned and have a specific pitch, put their pitch at the end of the filenames between square brackets likes this: Acoustic guitar [A4].
 
-An example of bad naming: best-Sound-eva_1
+(5) If the samples are loops and have a specific tempo, put their tempo at the end of the filenames between square brackets likes this: Drum loop [120 bpm].
+
+(6) The filename must be clean and decriptive.
+
+An example of bad naming: best-Sound-eVeR_1
 
 An example of good naming: Kick drum 1
 
 ### Definitions:
-`Sample library:` These samples are included in the default installation of LMMS. 
+`Sample library:` These samples are included in the default installation of LMMS.
 
-`Sample packs:` These resource packs will be available for download on the LMMS website, once finished. ~~(http://lmms.io/download/samples)~~ (page inactive at the moment)
+`Sample packs:` These resource packs will be available for download on the LMMS website, once finished. ~~(http://lmms.io/download/samples)~~ (The page is inactive at the moment).
 
 #### Which one should I choose?
 If you have a large amount of samples, you will be better off commiting them as a `sample pack`. The `library`'s purpose is to have a small set of good quality samples to get users started.
