@@ -26,9 +26,9 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 (3) Capitalizing the first letter of the first word only.
 
-(4) If the samples are tuned and have a specific pitch, put their pitch at the end of the filenames between square brackets likes this: Acoustic guitar [A4].
+(4) If the samples are tuned and have a specific pitch, put their pitch at the end of the filenames between square brackets like this: Acoustic guitar [A4].
 
-(5) If the samples are loops and have a specific tempo, put their tempo at the end of the filenames between square brackets likes this: Drum loop [120 bpm].
+(5) If the samples are loops and have a specific tempo, put their tempo at the end of the filenames between square brackets like this: Drum loop [120 bpm].
 
 (6) The filename must be clean and decriptive.
 
