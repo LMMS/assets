@@ -30,7 +30,7 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 (5) If the samples are loops and have a specific tempo, put their tempo at the end of the filenames between square brackets like this: "Drum loop [120 bpm]".
 
-(6) If you have multiple samples and you want to version them, use the number sign before the number of each of your samples like this: "A #1" - "A #2".
+(6) If you have multiple samples and you want to version them, use the number sign before the number of each of your samples like this: "Sample #1" and "Sample #2".
 
 (7) The filename must be clean and decriptive.
 
