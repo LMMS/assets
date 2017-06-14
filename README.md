@@ -26,15 +26,17 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 (3) Capitalizing the first letter of the first word only.
 
-(4) If the samples are tuned and have a specific pitch, put their pitch at the end of the filenames between square brackets like this: Acoustic guitar [A4].
+(4) If the samples are tuned and have a specific pitch, put their pitch at the end of the filenames between square brackets like this: "Acoustic guitar [A4]".
 
-(5) If the samples are loops and have a specific tempo, put their tempo at the end of the filenames between square brackets like this: Drum loop [120 bpm].
+(5) If the samples are loops and have a specific tempo, put their tempo at the end of the filenames between square brackets like this: "Drum loop [120 bpm]".
 
-(6) The filename must be clean and decriptive.
+(6) If you have multiple samples and you want to version them, use the number sign before the number of each of your samples like this: "Sample #1" and "Sample #2".
 
-An example of bad naming: best-Sound-eVeR_1
+(7) The filename must be clean and decriptive.
 
-An example of good naming: Kick drum 1
+An example of bad naming: "best-Sound-eVeR_1".
+
+An example of good naming: "Kick drum #1".
 
 ### Definitions:
 `Sample library:` These samples are included in the default installation of LMMS.
