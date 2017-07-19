@@ -6,7 +6,7 @@
 
 * The samples you commit must be [CC0](http://creativecommons.org/publicdomain/zero/1.0/). 
 
-* These samples must be created/recorded by you. They can not be taken from any other sample library or pack. The only exception to this rule is if you have a valid way to prove they are CC0.
+* The samples must be created/recorded by you. They can not be taken from any other sample library or pack. The only exception to this rule is if you have a valid way to prove they are CC0.
 
 #### Technical rules:
 
@@ -14,7 +14,7 @@
 
 * The samples must be in [mono](https://en.wikipedia.org/wiki/Monaural) files, unless they contain stereo signals.
 
-* The samples must be normalized to -3[dBFS](https://en.wikipedia.org/wiki/DBFS).
+* The samples must be normalized to -3 [dBFS](https://en.wikipedia.org/wiki/DBFS).
 
 * The samples must not contain unnecessary delay or start/end silence.
 
