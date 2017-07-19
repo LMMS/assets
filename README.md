@@ -1,4 +1,4 @@
-﻿Welcome to the LMMS samples repository. Here you can commit your own samples for review by the managers for inclusion in either the library or as a separate pack.
+Welcome to the LMMS samples repository. Here you can commit your own samples for review by the managers for inclusion in either the library or as a separate pack.
 
 ### Commit rules:
 
@@ -14,7 +14,7 @@
 
 * The samples must be in [mono](https://en.wikipedia.org/wiki/Monaural) files, unless they contain stereo signals.
 
-* The samples must be normalized to -3 [dBFS](https://en.wikipedia.org/wiki/DBFS).
+* The samples must be [peak normalized](https://en.wikipedia.org/wiki/Audio_normalization#Peak_normalization) to -3 [dBFS](https://en.wikipedia.org/wiki/DBFS).
 
 * The samples must not contain unnecessary delay or start/end silence.
 
