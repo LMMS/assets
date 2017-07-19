@@ -12,7 +12,7 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 * The samples must be in the [FLAC](https://en.wikipedia.org/wiki/FLAC) [audio file format](https://en.wikipedia.org/wiki/Audio_file_format) with an [audio bit depth](https://en.wikipedia.org/wiki/Audio_bit_depth) of 16-bit, preferably at a [sampling rate](https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate) of [44100 Hz](https://en.wikipedia.org/wiki/44,100_Hz).
 
-* The samples must be in [mono](https://en.wikipedia.org/wiki/Monaural) files, unless they contain stereo signals.
+* The samples must be in [mono](https://en.wikipedia.org/wiki/Monaural) files, unless they contain [stereo](https://en.wikipedia.org/wiki/Stereophonic_sound#Balance) signals.
 
 * The samples must be [peak normalized](https://en.wikipedia.org/wiki/Audio_normalization#Peak_normalization) to -3 [dBFS](https://en.wikipedia.org/wiki/DBFS).
 
