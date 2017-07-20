@@ -39,7 +39,7 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 Note: If the samples have defined pitches and tempos, put their pitches before their tempos like this: `Acoustic Guitar Melody [A4, 120 bpm]`.
 
 5. If you have multiple related samples and you want to version them, put their numbers at the end of their filenames after a space.
-If the number of a sample is less than 10, add an initial '0' like this: 'Sample 01' and 'Sample 02'.
+If the number of a sample is less than 10, add an initial "0" like this: `Sample 01` and `Sample 02`.
 
 6. The filenames must be descriptive and neat.
 
