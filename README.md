@@ -22,32 +22,30 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 * The smaples must be without added [reverberation](https://en.wikipedia.org/wiki/Reverberation) or [delay](https://en.wikipedia.org/wiki/Delay_(audio_effect)) effects unless these effects are necessary for them.
 
-#### Organizing & naming rules:
+#### Naming & organizing rules:
 
-* The samples must be put in the the folder that best describes them. If your samples don't belong to one of the existing folders or you are not sure where to put them, please put them in the `Unsorted samples` folder.
+* The samples must be put in the folders that best describe them. If your samples don't belong to one of the existing folders or you are not sure where to put them, please put them in the `Unsorted samples` folder.
 
 * The samples' filenames must follow the following naming rules:
 
 1. The filenames must be in English.
 
-2. The filenames must only use letters and numbers.
+2. Capitalizing the first letter of each word in the filenames.
 
-3. Capitalizing the first letter of each word in the filenames.
+3. If the samples are tuned and have defined [pitches](https://en.wikipedia.org/wiki/Pitch_(music)), put their pitches at the end of their filenames between square brackets like this: `Acoustic Guitar [A4]`.
 
-4. If the samples are tuned and have defined [pitches](https://en.wikipedia.org/wiki/Pitch_(music)), put their pitch at the end of their filenames between square brackets like this: `Acoustic guitar [A4]`.
+4. If the samples are loops and have defined [tempos](https://en.wikipedia.org/wiki/Tempo), put their tempos at the end of their filenames between square brackets like this: `Drum Loop [120 bpm]`.
 
-5. If the samples are loops and have defined [tempos](https://en.wikipedia.org/wiki/Tempo), put their tempos at the end of their filenames between square brackets like this: `Drum loop [120 bpm]`.
+Note: If the samples have defined pitches and tempos, put their pitches before their tempos like this: `Acoustic Guitar Melody [A4, 120 bpm]`.
 
-Note: If the samples have defined pitches and tempo, put their pitches before their tempos like this: `Acoustic guitar [A4, 120 bpm]`.
-
-6. If you have multiple related samples and you want to version them, put their number at the end of their filenames after a space.
+5. If you have multiple related samples and you want to version them, put their numbers at the end of their filenames after a space.
 If the number of a sample is less than 10, add an initial '0' like this: 'Sample 01' and 'Sample 02'.
 
-7. The filenames must be neat and decriptive.
+6. The filenames must be descriptive and neat.
 
 *An example of bad naming: `bEST-sOUND-eVER!_1 A4`.*
 
-*An example of good naming: `Acoustic guitar 01 [A4]`.*
+*An example of good naming: `Acoustic Guitar 01 [A4]`.*
 
 ### Definitions:
 `Sample library`: These samples are included in the default installation of LMMS.
