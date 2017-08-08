@@ -10,7 +10,7 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 #### Technical rules:
 
-* The samples must be in the [FLAC](https://en.wikipedia.org/wiki/FLAC) [audio file format](https://en.wikipedia.org/wiki/Audio_file_format) with an [audio bit depth](https://en.wikipedia.org/wiki/Audio_bit_depth) of 24-bit, preferably at a [sampling rate](https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate) of [44100 Hz](https://en.wikipedia.org/wiki/44,100_Hz).
+* The samples must be in the [FLAC](https://en.wikipedia.org/wiki/FLAC) [audio file format](https://en.wikipedia.org/wiki/Audio_file_format) with an [audio bit depth](https://en.wikipedia.org/wiki/Audio_bit_depth) of 24-bit, at a [sampling rate](https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate) of [44100 Hz](https://en.wikipedia.org/wiki/44,100_Hz).
 
 * The samples must be in [mono](https://en.wikipedia.org/wiki/Monaural) files, unless they contain [stereo](https://en.wikipedia.org/wiki/Stereophonic_sound) signals.
 
@@ -20,7 +20,7 @@ Welcome to the LMMS samples repository. Here you can commit your own samples for
 
 * The samples must contain the least amount possible of unwanted [noise](https://en.wikipedia.org/wiki/Noise), [aliasing](https://en.wikipedia.org/wiki/Aliasing/), pops or clicks.
 
-* The smaples must be without added [reverberation](https://en.wikipedia.org/wiki/Reverberation) or [delay](https://en.wikipedia.org/wiki/Delay_(audio_effect)) effects unless these effects are necessary for them.
+* The samples must be without added [reverberation](https://en.wikipedia.org/wiki/Reverberation) or [delay](https://en.wikipedia.org/wiki/Delay_(audio_effect)) effects unless these effects are necessary for them.
 
 #### Naming & organizing rules:
 
