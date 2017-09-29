@@ -47,6 +47,10 @@ If the number of a sample is less than 10, add an initial "0" like this: `Sample
 
 *An example of good naming: `Acoustic guitar 01 [A4]`.*
 
+#### Metadata tags:
+
+The samples' metadata tags must be empty.
+
 ### Definitions:
 `Sample library`: These samples are included in the default installation of LMMS.
 
