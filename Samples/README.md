@@ -4,7 +4,7 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 #### Legal rules:
 
-* The samples you commit must be [CC0](http://creativecommons.org/publicdomain/zero/1.0/). 
+* The samples you commit must be [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
 * The samples must be created/recorded by you. They can not be taken from any other sample library or pack. The only exception to this rule is if you have a valid way to prove they are CC0.
 
@@ -24,8 +24,6 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 #### Naming & organizing rules:
 
-* The samples must be put in the folders that best describe them. If your samples don't belong to one of the existing folders or you are not sure where to put them, please put them in the `Unsorted samples` folder.
-
 * The samples' filenames must follow the following naming rules:
 
 1. The filenames must be in English.
@@ -38,14 +36,16 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 Note: If the samples have defined pitches and tempos, put their pitches before their tempos like this: `Acoustic guitar melody [A4, 120 bpm]`.
 
-5. If you have multiple related samples and you want to version them, put their numbers at the end of their filenames after a space.
-If the number of a sample is less than 10, add an initial "0" like this: `Sample 01` and `Sample 02`.
+5. The filenames must be descriptive and neat.
 
-6. The filenames must be descriptive and neat.
+6. If you have multiple related samples and you want to version them, put their numbers at the end of their filenames after a space.
+If the number of a sample is less than 10, add an initial "0" like this: `Sample 01` and `Sample 02`.
 
 *An example of bad naming: `bEST-sOUND-eVER!_1 A4`.*
 
 *An example of good naming: `Acoustic guitar 01 [A4]`.*
+
+* The samples must be put in the folders that best describe them. If your samples don't belong to one of the existing folders or you are not sure where to put them, please put them in the `Unsorted samples` folder.
 
 #### Metadata tags:
 
