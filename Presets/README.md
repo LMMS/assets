@@ -10,7 +10,7 @@ Welcome to the LMMS presets folder. Here you can commit your presets for review 
 
 #### Technical rules:
 
-##### Volume envelope rules:
+##### Envelopes rules:
 
 For a consistent preset library, each type of presets has recommened values for its envelope parameters, especially volume:
 
