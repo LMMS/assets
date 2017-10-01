@@ -1,4 +1,4 @@
-Welcome to the LMMS samples repository. Here you can commit your own samples for review by the managers for inclusion in either the library or as a separate pack.
+Welcome to the LMMS samples folder. Here you can commit your samples for review by the managers for inclusion in either the library or as a separate pack.
 
 ### Commit rules:
 
