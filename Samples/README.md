@@ -36,10 +36,10 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 Note: If the samples have defined pitches and tempos, put their pitches before their tempos like this: `Acoustic guitar melody [A4, 120 bpm]`.
 
-5. The filenames must be descriptive and neat.
-
-6. If you have multiple related samples and you want to version them, put their numbers at the end of their filenames after a space.
+5. If you have multiple related samples and you want to version them, put their numbers at the end of their filenames after a space.
 If the number of a sample is less than 10, add an initial "0" like this: `Sample 01` and `Sample 02`.
+
+6. The filenames must be descriptive and neat.
 
 *An example of bad naming: `bEST-sOUND-eVER!_1 A4`.*
 
