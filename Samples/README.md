@@ -22,7 +22,7 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 * The samples must be without added [reverberation](https://en.wikipedia.org/wiki/Reverberation) or [delay](https://en.wikipedia.org/wiki/Delay_(audio_effect)) effects unless these effects are necessary for them.
 
-#### Naming & organizing rules:
+#### Naming and organizing rules:
 
 * The samples' filenames must follow the following naming rules:
 
