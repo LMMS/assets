@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project version="1.0" type="instrumenttracksettings" creator="LMMS" creatorversion="1.2.0-rc4">
+  <head/>
+  <instrumenttracksettings name="Zing 1" type="0" muted="0" solo="0">
+    <instrumenttrack pan="0" pitch="0" usemasterpitch="1" pitchrange="1" vol="100" fxch="0" basenote="57">
+      <instrument name="sfxr">
+        <sfxr sqrSweep="0" slide="0" sqrDuty="0" vibSpeed="0" lpFilReso="0.125" hpFilCutSweep="0" waveForm="0" phaserOffset="0" att="0.25" repeatSpeed="0" changeAmt="0" hold="0" changeSpeed="0" dSlide="0" hpFilCut="0" vibDepth="0" version="1" startFreq="1" sus="0" dec="0.25" phaserSweep="0" lpFilCut="0.25" minFreq="0" lpFilCutSweep="0.25"/>
+      </instrument>
+      <eldata fcut="14000" fres="0.5" ftype="0" fwet="0">
+        <elvol lspd_syncmode="0" lspd_denominator="4" userwavefile="" att="0" lshp="0" ctlenvamt="0" x100="0" latt="0" amt="0" hold="0.5" lamt="0" rel="0.1" sustain="0.5" lspd_numerator="4" lpdel="0" lspd="0.1" dec="0.5" pdel="0"/>
+        <elcut lspd_syncmode="0" lspd_denominator="4" userwavefile="" att="0" lshp="0" ctlenvamt="0" x100="0" latt="0" amt="0" hold="0.5" lamt="0" rel="0.1" sustain="0.5" lspd_numerator="4" lpdel="0" lspd="0.1" dec="0.5" pdel="0"/>
+        <elres lspd_syncmode="0" lspd_denominator="4" userwavefile="" att="0" lshp="0" ctlenvamt="0" x100="0" latt="0" amt="0" hold="0.5" lamt="0" rel="0.1" sustain="0.5" lspd_numerator="4" lpdel="0" lspd="0.1" dec="0.5" pdel="0"/>
+      </eldata>
+      <chordcreator chord="0" chord-enabled="0" chordrange="1"/>
+      <arpeggiator arp-enabled="0" arprange="1" arpmode="0" arp="0" arptime_syncmode="0" arpskip="0" arptime="100" arpcycle="0" arpdir="0" arpmiss="0" arpgate="100" arptime_numerator="4" arptime_denominator="4"/>
+      <midiport inputcontroller="0" fixedinputvelocity="-1" readable="0" outputprogram="1" outputcontroller="0" fixedoutputnote="-1" outputchannel="1" fixedoutputvelocity="-1" basevelocity="63" inputchannel="0" writable="0"/>
+      <fxchain numofeffects="0" enabled="0"/>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
