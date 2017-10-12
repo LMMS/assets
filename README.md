@@ -35,4 +35,6 @@ Contributing projects is not yet available.  Please contact us on `#assets` chan
 
 Patches, or "Instrument Patches", "Instrument Banks", "Patch Banks" or "Soundfonts" are a sample bundle for playback through a particular instrument, usually "SF2" or "Giga" format.  Patches are very similar to samples, but they are more work to create and generally have wider note range and work better with MIDI input devices.
 
+### Contributing Patches
+
 Contributing patches is not yet available. Please contact us on `#assets` channel on [Discord](https://lmms.io/chat) for more information.
