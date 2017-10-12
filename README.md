@@ -8,12 +8,12 @@ The home for high quality samples, projects, presets and patches for LMMS deskto
 
 | Name           | Description                                                                                      |
 |----------------|--------------------------------------------------------------------------------------------------|
-| [Sample Library](/lmms/assets/tree/master/Samples/Sample%20library/) | These samples will be included in the default installation of LMMS.                              |
+| [Sample Library](https://github.com/lmms/assets/tree/master/Samples/Sample%20library/) | These samples will be included in the default installation of LMMS.                              |
 | Sample Packs   | These resource packs will be available for separate download on the LMMS website, once finished. |
 
 ### Contributing Samples
 
-Please see README in [Samples](/lmms/assets/tree/master/Samples) directory.
+Please see README in [Samples](https://github.com/lmms/assets/tree/master/Samples) directory.
 
 ## Presets
 
@@ -21,7 +21,7 @@ Presets, or more properly "Instrument Presets" are saved versions of instrument 
 
 ### Contributing Presets
 
-Please see README in [Presets](/lmms/assets/tree/master/Presets) directory.
+Please see README in [Presets](https://github.com/lmms/assets/tree/master/Presets) directory.
 
 ## Projects
 
