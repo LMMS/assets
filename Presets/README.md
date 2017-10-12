@@ -51,3 +51,15 @@ An example of bad naming: `bEST-pRESETU-eVER!_1`.
 An example of good naming: `Supersaw 1`.
 
 * The presets must be put in their instrument or effect folder.
+
+### Needed presets:
+
+The following instruments have few presets compared to the other instruments:
+
+1. sfxr: 0 presets.
+2. Vibed: 2 presets.
+3. Watsyn: 3 presets.
+4. Monstro: 4 presets.
+5. Nescaline: 5 presets.
+6. LB302: 6 presets.
+6. SID: 6 presets.
