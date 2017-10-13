@@ -56,10 +56,10 @@ An example of good naming: `Supersaw 1`.
 
 The following instruments have few presets compared to the other instruments:
 
-1. sfxr: 0 presets.
-2. Vibed: 2 presets.
-3. Watsyn: 3 presets.
-4. Monstro: 4 presets.
-5. Nescaline: 5 presets.
-6. LB302: 6 presets.
-6. SID: 6 presets.
+1. **sfxr** has 0 presets.
+2. **Vibed** has 2 presets.
+3. **Watsyn** has 3 presets.
+4. **Monstro** has 4 presets.
+5. **Nescaline** has 5 presets.
+6. **LB302** has 6 presets.
+6. **SID** has 6 presets.
