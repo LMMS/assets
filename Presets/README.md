@@ -39,10 +39,9 @@ ATT = 0.050 | REL = 0.1
 
 1. The names & filenames must be in English.
 
-2. Capitalizing the first letter of the first word only in the names & filenames.
+2. Capitalizing the first letter of each word in the names & filenames.
 
 3. If you have multiple related presets and you want to version them, put their numbers at the end of their names & filenames after a space.
-**In filenames only**: if the number of a preset is less than 10, add an initial "0" like this: `Preset 01` and `Preset 02`.
 
 4. The names & filenames must be descriptive and neat.
 
