@@ -14,6 +14,8 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 * The samples must be in [mono](https://en.wikipedia.org/wiki/Monaural) files, unless they contain [stereo](https://en.wikipedia.org/wiki/Stereophonic_sound) signals.
 
+* If the samples contain stereo signals, they should be mid-panned. An exception to this rule is loops with different samples.
+
 * The samples must be [peak normalized](https://en.wikipedia.org/wiki/Audio_normalization#Peak_normalization) to -3 [dBFS](https://en.wikipedia.org/wiki/DBFS).
 
 * The samples must not contain unnecessary delay or start/end silence.
