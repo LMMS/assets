@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" type="instrumenttracksettings" creatorversion="1.2.0-rc4" version="1.0">
+  <head/>
+  <instrumenttracksettings solo="0" type="0" name="Hoovercraft" muted="0">
+    <instrumenttrack fxch="0" vol="100" pan="0" basenote="57" usemasterpitch="1" pitch="0.00610352" pitchrange="1">
+      <instrument name="monstro">
+        <monstro l2rat_denominator="4" p1l2="0" e2pre_syncmode="0" l2att_numerator="4" o23mo="0" l1rat_numerator="4" p3e2="0" o3crs="12" s3l2="0" l1rat="1" s3e1="0" v3e2="0" e1att_numerator="4" o3vol="150" e2att_denominator="4" e2att_numerator="4" e2dec_denominator="4" p3l2="0" o1spo="0" e1pre_denominator="4" e2rel_numerator="4" p3l1="0" p1l1="0" o3pan="0" o2crs="-12" e2att_syncmode="0" e2pre_denominator="4" o3sub="-100" o2syn="0" p3e1="0" f3e2="0" e2hol_denominator="4" e1hol_syncmode="0" o1ssr="0" o1vol="200" v1e1="0" o3wav2="5" p2l2="0" v2e1="0" e2dec="0" f3e1="0.6" o3wav1="11" e1dec_denominator="4" l2att_syncmode="0" l1phs="0" w1l2="0" e1att_denominator="4" l1att="0" p2e1="0" w1l1="0" v3l2="0" o1pan="0" e2hol="0" v1l2="0" e1dec="901" l1rat_denominator="4" o2spo="0" l2att_denominator="4" e1att_syncmode="0" e1slo="-0.4" s3l1="0" l2rat="1" v1l1="0" l2rat_numerator="4" o1ssf="1" e2dec_syncmode="0" e2rel_denominator="4" e1rel_numerator="4" e2slo="0" l1rat_syncmode="0" s3e2="0" p1e2="0" e1pre_syncmode="0" e1att="100" l2phs="0" v3l1="0" o2ftl="20" v2e2="0" o1pw="25" e2dec_numerator="4" e2hol_syncmode="0" o1crs="0" w1e1="0.5" l1att_syncmode="0" o3spo="0" e1dec_syncmode="0" o2vol="200" e1sus="0" e2hol_numerator="4" v1e2="0" l1att_numerator="4" e2rel="0" f1l2="0" o2pan="0" o1ftr="20" f3l2="0" e2sus="1" l2rat_syncmode="0" l2wav="0" f2e2="0" f1e2="0" e1hol="0" f1e1="0.6" o3synr="0" e1pre_numerator="4" o1ftl="-20" e2att="0" f2l2="0" v2l2="0" e2pre="0" l2att="0" p1e1="0" f1l1="0" e1rel_syncmode="0" v3e1="0" l1wav="0" o2wav="12" e1pre="0" p2e2="0" e2rel_syncmode="0" p2l1="0" e1dec_numerator="4" f2l1="0" o3syn="1" f3l1="0" e1rel="100" e1hol_denominator="4" o2ftr="10" e2pre_numerator="4" w1e2="0" l1att_denominator="4" v2l1="0" f2e1="0.6" o2synr="1" e1rel_denominator="4" e1hol_numerator="4"/>
+      </instrument>
+      <eldata ftype="8" fres="2.25" fcut="10249" fwet="1">
+        <elvol latt="0" lshp="0" att="0.1" lspd="0.025" lspd_numerator="4" lpdel="0" amt="1" pdel="0" lamt="-0.1" rel="0.1" x100="0" ctlenvamt="0" lspd_syncmode="4" lspd_denominator="4" sustain="0.75" dec="0.9" hold="0" userwavefile=""/>
+        <elcut latt="0" lshp="0" att="0" lspd="0.1" lspd_numerator="4" lpdel="0" amt="0" pdel="0" lamt="0" rel="0.1" x100="0" ctlenvamt="0" lspd_syncmode="0" lspd_denominator="4" sustain="0.5" dec="0.5" hold="0.5" userwavefile=""/>
+        <elres latt="0" lshp="0" att="0" lspd="0.1" lspd_numerator="4" lpdel="0" amt="0" pdel="0" lamt="0" rel="0.1" x100="0" ctlenvamt="0" lspd_syncmode="0" lspd_denominator="4" sustain="0.5" dec="0.5" hold="0.5" userwavefile=""/>
+      </eldata>
+      <chordcreator chordrange="4" chord="0" chord-enabled="1"/>
+      <arpeggiator arp-enabled="0" arprange="1" arpskip="0" arpmiss="0" arp="0" arptime_denominator="4" arpgate="100" arptime_syncmode="5" arpdir="0" arpmode="0" arpcycle="0" arptime_numerator="4" arptime="250"/>
+      <midiport outputchannel="1" fixedinputvelocity="-1" basevelocity="63" outputprogram="1" inputchannel="0" fixedoutputvelocity="-1" writable="0" inputcontroller="0" readable="0" outputcontroller="0" fixedoutputnote="-1"/>
+      <fxchain numofeffects="3" enabled="1">
+        <effect gate="0" autoquit="1" on="1" autoquit_denominator="4" wet="1" autoquit_syncmode="0" autoquit_numerator="4" name="ladspaeffect">
+          <ladspacontrols ports="13">
+            <port04 data="0"/>
+            <port05 data="1"/>
+            <port06 data="0.08"/>
+            <port07 data="1"/>
+            <port012 data="9.95"/>
+            <port013 data="3.25"/>
+            <port015>
+              <data scale_type="log" id="36958" value="20000"/>
+            </port015>
+            <port016>
+              <data scale_type="log" id="36965" value="65"/>
+            </port016>
+            <port017>
+              <data scale_type="log" id="36972" value="20000"/>
+            </port017>
+            <port018>
+              <data scale_type="log" id="36979" value="65"/>
+            </port018>
+            <port019>
+              <data scale_type="log" id="36986" value="80"/>
+            </port019>
+            <port020 data="9.5"/>
+            <port021>
+              <data scale_type="log" id="37000" value="3.35"/>
+            </port021>
+          </ladspacontrols>
+          <key>
+            <attribute name="file" value="calf"/>
+            <attribute name="plugin" value="Saturator"/>
+          </key>
+        </effect>
+        <effect gate="0" autoquit="1" on="1" autoquit_denominator="4" wet="1" autoquit_syncmode="0" autoquit_numerator="4" name="eq">
+          <Eq Peak2bw="1.182" Peak2gain="-1" LPres="0.354" HP12="0" LP="0" AnalyseIn="1" Peak4active="0" HPres="0.707" Highshelfactive="0" HP="2" LP48="0" Lowshelfactive="1" LP12="1" LowShelfres="1.4" HighShelfgain="0" Peak3active="0" LP24="0" Peak3bw="0.3" Peak4gain="0" Outputgain="0" HPactive="1" Peak3gain="0" Peak1bw="0.3" Peak1active="1" HP48="1" HP24="0" HighShelfres="1.4" Peak4bw="0.3" Lowshelfgain="-3" LPactive="1" Peak2active="1" AnalyseOut="1">
+            <Inputgain scale_type="log" id="11026" value="0"/>
+            <Peak1gain scale_type="log" id="31424" value="0"/>
+            <HPfreq scale_type="log" id="14823" value="65"/>
+            <LowShelffreq scale_type="log" id="20693" value="262"/>
+            <Peak1freq scale_type="log" id="20628" value="120"/>
+            <Peak2freq scale_type="log" id="28528" value="2093"/>
+            <Peak3freq scale_type="log" id="13691" value="2000"/>
+            <Peak4freq scale_type="log" id="17575" value="4000"/>
+            <Highshelffreq scale_type="log" id="22443" value="12000"/>
+            <LPfreq scale_type="log" id="28606" value="16744"/>
+          </Eq>
+          <key/>
+        </effect>
+        <effect gate="0" autoquit="1" on="1" autoquit_denominator="4" wet="1" autoquit_syncmode="0" autoquit_numerator="4" name="ladspaeffect">
+          <ladspacontrols ports="12">
+            <port04>
+              <data scale_type="log" id="37016" value="5"/>
+            </port04>
+            <port05>
+              <data scale_type="log" id="37023" value="4"/>
+            </port05>
+            <port06>
+              <data scale_type="log" id="37030" value="0.01"/>
+            </port06>
+            <port07 data="180"/>
+            <port08 data="8"/>
+            <port09 data="180"/>
+            <port010 data="1"/>
+            <port011 data="2"/>
+            <port012>
+              <data scale_type="log" id="37072" value="523"/>
+            </port012>
+            <port013>
+              <data scale_type="log" id="37079" value="4186"/>
+            </port013>
+            <port014>
+              <data scale_type="log" id="37086" value="1"/>
+            </port014>
+            <port015 data="0.7"/>
+          </ladspacontrols>
+          <key>
+            <attribute name="file" value="calf"/>
+            <attribute name="plugin" value="MultiChorus"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
