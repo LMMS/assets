@@ -10,20 +10,9 @@ Welcome to the LMMS presets folder. Here you can commit your presets for review 
 
 #### Technical rules:
 
-##### Envelopes rules:
-
-For a consistent preset library, each type of presets has recommened values for its envelope parameters, especially volume:
-
-* Percussion and plucks:
-
-ATT = 0.025 | REL = 0.1
-* Basses, leads and pads:
-
-ATT = 0.050 | REL = 0.1
-
-##### Other rules:
-
 * The presets must not have unnecessary delay or start/end silence.
+
+* The presets must not have [DC offset](https://en.wikipedia.org/wiki/DC_bias). If a preset generates audio with DC offset, use the `DC Offset Remover` effect to remove it.
 
 * The presets must have the least amount possible of unwanted [noise](https://en.wikipedia.org/wiki/Noise), [aliasing](https://en.wikipedia.org/wiki/Aliasing/), pops or clicks.
 
