@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project type="instrumenttracksettings" version="1.0" creator="LMMS" creatorversion="1.2.0-rc4">
+  <head/>
+  <instrumenttracksettings type="0" solo="0" name="Beast #1" muted="0">
+    <instrumenttrack usemasterpitch="1" basenote="76" pitchrange="1" fxch="0" pan="0" vol="100" pitch="0">
+      <instrument name="OPL2">
+        <OPL2 op2_d="11" fm="1" trem_depth="0" op2_lvl="63" op1_trem="0" op2_vib="0" op1_mul="5" op2_scale="0" op2_r="9" op1_ksr="1" vib_depth="0" op1_perc="1" op2_perc="1" op1_vib="0" op2_a="12" op2_waveform="1" op1_r="11" op1_s="10" feedback="0" op1_scale="0" op1_d="0" op2_trem="0" op1_waveform="2" op1_a="0" op2_ksr="1" op2_s="10" op1_lvl="63" op2_mul="3"/>
+      </instrument>
+      <eldata fcut="14000" fres="0.5" fwet="0" ftype="0">
+        <elvol lspd_numerator="4" userwavefile="" sustain="0.5" rel="0.1" lshp="0" dec="0.5" lspd_denominator="4" amt="0" x100="0" lspd_syncmode="0" pdel="0" att="0" ctlenvamt="0" latt="0" lamt="0" lspd="0.1" hold="0.5" lpdel="0"/>
+        <elcut lspd_numerator="4" userwavefile="" sustain="0.5" rel="0.1" lshp="0" dec="0.5" lspd_denominator="4" amt="0" x100="0" lspd_syncmode="0" pdel="0" att="0" ctlenvamt="0" latt="0" lamt="0" lspd="0.1" hold="0.5" lpdel="0"/>
+        <elres lspd_numerator="4" userwavefile="" sustain="0.5" rel="0.1" lshp="0" dec="0.5" lspd_denominator="4" amt="0" x100="0" lspd_syncmode="0" pdel="0" att="0" ctlenvamt="0" latt="0" lamt="0" lspd="0.1" hold="0.5" lpdel="0"/>
+      </eldata>
+      <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+      <arpeggiator arpdir="0" arpcycle="0" arpskip="0" arptime_syncmode="0" arpgate="100" arpmiss="0" arptime="100" arpmode="0" arp-enabled="0" arptime_numerator="4" arptime_denominator="4" arprange="1" arp="0"/>
+      <midiport basevelocity="63" outputchannel="1" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" inputchannel="0" inputcontroller="0" readable="0" writable="0" fixedinputvelocity="-1"/>
+      <fxchain enabled="1" numofeffects="1">
+        <effect autoquit_numerator="4" on="1" wet="1" autoquit="1" autoquit_denominator="4" name="ladspaeffect" autoquit_syncmode="0" gate="0">
+          <ladspacontrols link="1" ports="0"/>
+          <key>
+            <attribute value="dc_remove_1207" name="file"/>
+            <attribute value="dcRemove" name="plugin"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
