@@ -4,38 +4,38 @@
 ```All LMMS Soundfonts under Creative Commons 1.0 Universal License```
 https://creativecommons.org/share-your-work/public-domain/cc0/
 
-##Instrument List
+## Instrument List
 
-..*French Horn
-..*Trombone
-..*Trumpet
-..*Tuba
-..*Acoustic Guitar
-..*Bass Guitar
-..*Jazz Guitar
-..*Spanish Guitar
-..*Grand Piano
-..*Organ
-..*Upright Piano
-..*Glockenspiel
-..*Kalimba
-..*Marimba
-..*Timpani
-..*Tubular Bells
-..*Vibraphone
-..*Xylophone
-..*Cello Section
-..*Double Bass
-..*Harp
-..*Violin Pizzicato
-..*Violin Section
-..*Violin
-..*Bassoon
-..*Clarinet
-..*Flute
-..*Oboe
-..*Piccolo
-..*Saxophone
+ * French Horn
+ * Trombone
+ * Trumpet
+ * Tuba
+ * Acoustic Guitar
+ * Bass Guitar
+ * Jazz Guitar
+ * Spanish Guitar
+ * Grand Piano
+ * Organ
+ * Upright Piano
+ * Glockenspiel
+ * Kalimba
+ * Marimba
+ * Timpani
+ * Tubular Bells
+ * Vibraphone
+ * Xylophone
+ * Cello Section
+ * Double Bass
+ * Harp
+ * Violin Pizzicato
+ * Violin Section
+ * Violin
+ * Bassoon
+ * Clarinet
+ * Flute
+ * Oboe
+ * Piccolo
+ * Saxophone
 
 # Soundfont Sources
 
