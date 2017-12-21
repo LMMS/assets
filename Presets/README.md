@@ -44,8 +44,8 @@ An example of good naming: `Supersaw 1`.
 
 The following instruments have few presets compared to the other instruments:
 
-1. **FreeBoy** has 0 presets.
-2. **sfxr** has 0 presets.
+1. **FreeBoy** has 8 presets.
+2. **sfxr** has 4 presets.
 3. **Vibed** has 2 presets.
 4. **Watsyn** has 3 presets.
 5. **Monstro** has 4 presets.
