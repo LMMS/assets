@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project type="instrumenttracksettings" creatorversion="1.2.0-rc5" version="1.0" creator="LMMS">
+  <head/>
+  <instrumenttracksettings name="Piramyd" solo="0" type="0" muted="0">
+    <instrumenttrack fxch="0" pan="0" usemasterpitch="1" pitchrange="1" pitch="0" basenote="69" vol="100">
+      <instrument name="lb302">
+        <lb302 dist="0" db24="1" vcf_res="0.485" slide="0" slide_dec="0.6" dead="1" vcf_cut="1.045" vcf_dec="0" shape="8" vcf_mod="0.1"/>
+      </instrument>
+      <eldata ftype="0" fres="0.5" fcut="14000" fwet="0">
+        <elvol lamt="0" latt="0" lshp="0" userwavefile="" att="0" pdel="0" lpdel="0" hold="0.5" ctlenvamt="0" lspd_denominator="4" lspd_syncmode="0" rel="0.1" lspd_numerator="4" sustain="0.5" lspd="0.1" amt="0" x100="0" dec="0.5"/>
+        <elcut lamt="0" latt="0" lshp="0" userwavefile="" att="0" pdel="0" lpdel="0" hold="0.5" ctlenvamt="0" lspd_denominator="4" lspd_syncmode="0" rel="0.1" lspd_numerator="4" sustain="0.5" lspd="0.1" amt="0" x100="0" dec="0.5"/>
+        <elres lamt="0" latt="0" lshp="0" userwavefile="" att="0" pdel="0" lpdel="0" hold="0.5" ctlenvamt="0" lspd_denominator="4" lspd_syncmode="0" rel="0.1" lspd_numerator="4" sustain="0.5" lspd="0.1" amt="0" x100="0" dec="0.5"/>
+      </eldata>
+      <chordcreator chordrange="1" chord="0" chord-enabled="0"/>
+      <arpeggiator arprange="1" arpskip="0" arpmode="0" arpcycle="0" arptime_numerator="4" arp="78" arptime_syncmode="0" arp-enabled="1" arpmiss="0" arpdir="2" arptime="125" arptime_denominator="4" arpgate="100"/>
+      <midiport outputprogram="1" inputcontroller="0" fixedinputvelocity="-1" outputcontroller="0" writable="0" readable="0" fixedoutputnote="-1" fixedoutputvelocity="-1" outputchannel="1" inputchannel="0" basevelocity="63"/>
+      <fxchain numofeffects="2" enabled="1">
+        <effect gate="0" name="ladspaeffect" autoquit_numerator="4" autoquit_syncmode="0" on="1" wet="1" autoquit_denominator="4" autoquit="1">
+          <ladspacontrols link="1" ports="8">
+            <port01 link="1" data="0.48"/>
+            <port02 link="1" data="0.4175"/>
+            <port03 link="1" data="0.785398"/>
+            <port04 link="1" data="0.75"/>
+            <port11 data="0.48"/>
+            <port12 data="0.4175"/>
+            <port13 data="0.785398"/>
+            <port14 data="0.75"/>
+          </ladspacontrols>
+          <key>
+            <attribute name="file" value="caps"/>
+            <attribute name="plugin" value="PhaserI"/>
+          </key>
+        </effect>
+        <effect gate="0" name="ladspaeffect" autoquit_numerator="4" autoquit_syncmode="0" on="1" wet="0.65" autoquit_denominator="4" autoquit="1">
+          <ladspacontrols ports="10">
+            <port04 data="2"/>
+            <port05 data="0.5"/>
+            <port06 data="0.5"/>
+            <port07 data="0.8"/>
+            <port08>
+              <data scale_type="log" value="27.8316" id="11855"/>
+            </port08>
+            <port09>
+              <data scale_type="log" value="27.8316" id="31891"/>
+            </port09>
+            <port010 data="0.75"/>
+            <port011 data="0.25"/>
+            <port012 data="0.5"/>
+            <port013 data="0"/>
+          </ladspacontrols>
+          <key>
+            <attribute name="file" value="calf"/>
+            <attribute name="plugin" value="RotarySpeaker"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project type="instrumenttracksettings" creatorversion="1.2.0-rc5" version="1.0" creator="LMMS">
+  <head/>
+  <instrumenttracksettings name="Finale" solo="0" type="0" muted="0">
+    <instrumenttrack fxch="0" pan="0" usemasterpitch="1" pitchrange="1" pitch="0" basenote="33" vol="100">
+      <instrument name="vibedstrings">
+        <vibedstrings length2="1" volume1="50" active5="0" impulse3="0" active1="1" volume0="50" octave1="1" slap0="0" active8="0" impulse1="0" graph0="rFlVPu7rdr+QOUe+jX9GPx2LDj8yLxm/fMc9v+j1877yB3k/7E31vlA5Jz4aRY0+L5sXP0Q7Ij+y81g/itdEP12HLj8olxO/11drPyrPFL+YyUq+kHlHPha7Cj9FZyI/2BlqvlglrD6wWVe+3J9tv/S5eT5DlyE/mrXMPshDZD9sQzY/9ad6P4oLRb/Wg2q/AO2AvtJHab8MLYa+2PdrPzBFmD5qEzU/lLdJPzbrGj+qB1U/5ENyP8g3ZL+u21a/ouNQv3YzO79ovzM/UAsoP7oTXT80pZq+5I3yvpePSz9cEy4/oONPP4OvQT/nY3M/DE8Gv9T3ab/jt3E/LB2WvpGvSD8omRM+htXCPu17dj+KR0W/CAcEv0BBnLxWHys/Dp8Gv4b/Qr8AAGg6gBNAv+Bt8L4Qqwc/y5NlP7AJWL6Af0C/AIEDvGyttr72k3q/sJlWvgAC7ztwyTe+lH9Kv9InaT+IB0S/kZdIP0DhJL1AeSG+9ut6P9BJZz5wYTs9OjcdPwBBgbwazwy/Kh2VPpSFyr6mW1O/YA2vvqS10r4suRU+60t1Pyb3Ej/KK2W/AAG5uzmLHD8oNZS+fXs+P+K18D5Q5ac+oJXQvtl7bD/QP2i/BG8Cv4CrP78UNYm+Bk8DPxgNi75mczO/DXcGP8RF4r5KpaQ+zUtmP+DB9Tw=" pickup2="0.05" pan2="0" pan1="0" version="0.1" stiffness3="0" length1="1" slap1="0" impulse2="0" pickup1="0.05" active0="1" pick0="0" active4="0" slap3="0" pick1="0" length3="1" active2="1" slap2="0" pickup3="0.05" detune2="0" volume3="70" pan3="0" pick2="0" active7="0" graph3="Rl8jv6Kl0D5caS4+lCXJvqwl1r4epw4/Jr2SPmTTMT/uL3e/2l3tPthd677aQ20/cPk4PvTF+r41lxo/YB8wv0TNor6AGUA+oP9PPxDNhz5hgzA/y3tlP8A1374Xnws/EDGLvSBhET2YGUy+um9dvyqPFL/gD3A/0HHrvfgx/D24hdu+uPlcPqILUb9g1bC+rKXWvtZDa79Ulam+/Mt9v1AJKb6UmUk+tvdaP7xPXj+MKUY+fBW9voJ1wT6wS1g/5CNyP9wN7j7khfG+XtsuvwaNgj54lby+AKJ8PWgNs77OR2c/ECcIP6wV1b4gqRG+OGkbPv5vf79YGSq+4NlxvuhN9L6eo06/pntTv3g3PD9MPaY+1adqP5zVzb5QISU9HF2Nvu4rd7+0ndq+zZdmP6JPUb/ATeA+9Ld5vy5llz4g0Y89nrtOv8D5Yb6sLdW+EB2IPjIrGb/I2WO+AAEiOx7rDj9w9bc+eLW7Pshx4z1Tbyk/0AXovvuffT+I20O/YN2vvmChLD0s5xU/gEGyvFbnKj+Q8cu9AAGzuxjJCr4wKxg/INGQPW4nNz+qv1S/aFc0P6St0T4szZU+/r9+v86/Zj9szbU+WDWrvnTbOT8KhwS/aCk0vpS7ST9qOzU/nNtNv8m3ZD9g2TC+uJXbviw3Fr9gOS6+Cj2FPoBxvL0=" stiffness1="0" pick3="0" stiffness0="0" octave0="0" length0="1" active3="1" detune0="0" stiffness2="0" pan0="0" graph1="AAAAADD7SD02vcg9g0AWPsLFRz7Nz3g+MaCUPtR8rD4W78M+gOjaPupa8T49nAM/2jkOP8B/GD+aZyI/SusrP/MENT/6rj0/A+RFPwKfTT8y21Q/G5RbP5jFYT/Ya2c/XoNsPwgJcT8L+nQ/+FN4P78Uez+sOn0/bcR+Pw+xfz8AAIA/D7F/P23Efj+sOn0/vhR7P/hTeD8K+nQ/CAlxP16DbD/Ya2c/l8VhPxqUWz8w21Q/Ap9NPwTkRT/4rj0/8wQ1P0jrKz+ZZyI/vX8YP9k5Dj89nAM/5lrxPn/o2j4Q78M+0nysPjOglD7Fz3g+wcVHPnpAFj4wvcg9/fpIPS69u7Ms+0i9R73IvYVAFr7NxUe+0M94vjiglL7XfKy+Fe/DvoXo2r7rWvG+P5wDv9s5Dr/Afxi/m2civ0rrK7/1BDW/+q49vwPkRb8Dn02/NNtUvxmUW7+YxWG/2Wtnv2GDbL8ICXG/C/p0v/lTeL++FHu/rDp9v23Efr8PsX+/AACAvw+xf79txH6/rDp9v74Ue7/3U3i/Cfp0vwgJcb9dg2y/1Wtnv5jFYb8ZlFu/L9tUvwOfTb8D5EW/9649v+8ENb9K6yu/l2civ7x/GL/bOQ6/PJwDv+Na8b526Nq+Fe/Dvs98rL4ooJS+z894vrzFR750QBa+BL3IvSb7SL0=" octave3="0" octave2="0" volume2="20" pickup0="0.05" impulse0="0" active6="0" detune3="0.003" graph2="AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8=" detune1="0"/>
+      </instrument>
+      <eldata ftype="0" fres="0.5" fcut="14000" fwet="0">
+        <elvol lamt="0" latt="0" lshp="0" userwavefile="" att="0.05" pdel="0" lpdel="0" hold="0" ctlenvamt="0" lspd_denominator="4" lspd_syncmode="0" rel="0.1" lspd_numerator="4" sustain="0.5" lspd="0.1" amt="1" x100="0" dec="2"/>
+        <elcut lamt="0" latt="0" lshp="0" userwavefile="" att="0" pdel="0" lpdel="0" hold="0.5" ctlenvamt="0" lspd_denominator="4" lspd_syncmode="0" rel="0.1" lspd_numerator="4" sustain="0.5" lspd="0.1" amt="0" x100="0" dec="0.5"/>
+        <elres lamt="0" latt="0" lshp="0" userwavefile="" att="0" pdel="0" lpdel="0" hold="0.5" ctlenvamt="0" lspd_denominator="4" lspd_syncmode="0" rel="0.1" lspd_numerator="4" sustain="0.5" lspd="0.1" amt="0" x100="0" dec="0.5"/>
+      </eldata>
+      <chordcreator chordrange="1" chord="0" chord-enabled="0"/>
+      <arpeggiator arprange="1" arpskip="0" arpmode="0" arpcycle="0" arptime_numerator="4" arp="0" arptime_syncmode="0" arp-enabled="0" arpmiss="0" arpdir="0" arptime="200" arptime_denominator="4" arpgate="100"/>
+      <midiport outputprogram="1" inputcontroller="0" fixedinputvelocity="-1" outputcontroller="0" writable="0" readable="0" fixedoutputnote="-1" fixedoutputvelocity="-1" outputchannel="1" inputchannel="0" basevelocity="63"/>
+      <fxchain numofeffects="1" enabled="1">
+        <effect gate="0" name="ladspaeffect" autoquit_numerator="4" autoquit_syncmode="0" on="1" wet="0.33" autoquit_denominator="4" autoquit="1">
+          <ladspacontrols ports="12">
+            <port04>
+              <data scale_type="log" value="3.16228" id="30504"/>
+            </port04>
+            <port05>
+              <data scale_type="log" value="4.56637" id="1923"/>
+            </port05>
+            <port06>
+              <data scale_type="log" value="0.447214" id="22763"/>
+            </port06>
+            <port07 data="180"/>
+            <port08 data="4"/>
+            <port09 data="90"/>
+            <port010 data="2"/>
+            <port011 data="1"/>
+            <port012>
+              <data scale_type="log" value="100" id="4508"/>
+            </port012>
+            <port013>
+              <data scale_type="log" value="2990.7" id="29508"/>
+            </port013>
+            <port014>
+              <data scale_type="log" value="0.125" id="18577"/>
+            </port014>
+            <port015 data="1"/>
+          </ladspacontrols>
+          <key>
+            <attribute name="file" value="calf"/>
+            <attribute name="plugin" value="MultiChorus"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" creatorversion="1.2.0-rc5" version="1.0" type="instrumenttracksettings">
+  <head/>
+  <instrumenttracksettings muted="0" solo="0" name="Passion Fruit" type="0">
+    <instrumenttrack fxch="0" pitch="0" basenote="57" usemasterpitch="1" vol="100" pan="0" pitchrange="1">
+      <instrument name="tripleoscillator">
+        <tripleoscillator modalgo2="2" finer1="0" finel1="0" vol1="15" coarse0="0" coarse2="-12" phoffset2="90" wavetype0="6" vol2="35" finel2="0" userwavefile0="" vol0="5" userwavefile1="" stphdetun2="0" finel0="0" pan0="0" wavetype1="3" modalgo3="2" phoffset0="0" finer0="0" modalgo1="2" stphdetun0="0" userwavefile2="" coarse1="0" finer2="0" pan2="0" phoffset1="0" stphdetun1="0" wavetype2="4" pan1="0"/>
+      </instrument>
+      <eldata fcut="9990" ftype="6" fres="0.33" fwet="1">
+        <elvol lamt="0" hold="0" lspd_syncmode="0" lspd_denominator="4" sustain="1" dec="0" lpdel="0" ctlenvamt="0" latt="0" lspd="0.1" lshp="0" x100="0" amt="1" userwavefile="" pdel="0" att="0.05" lspd_numerator="4" rel="0.05"/>
+        <elcut lamt="0" hold="0" lspd_syncmode="0" lspd_denominator="4" sustain="0.587" dec="0" lpdel="0" ctlenvamt="0" latt="0" lspd="0.1" lshp="0" x100="0" amt="1" userwavefile="" pdel="0" att="0" lspd_numerator="4" rel="0"/>
+        <elres lamt="0.075" hold="0.5" lspd_syncmode="0" lspd_denominator="4" sustain="0.5" dec="0.5" lpdel="0" ctlenvamt="0" latt="0" lspd="0.05" lshp="0" x100="0" amt="0" userwavefile="" pdel="0" att="0" lspd_numerator="4" rel="0.1"/>
+      </eldata>
+      <chordcreator chord="0" chord-enabled="0" chordrange="1"/>
+      <arpeggiator arpcycle="0" arpgate="100" arp-enabled="0" arpmiss="0" arpmode="0" arprange="1" arpdir="0" arp="0" arptime_syncmode="0" arptime="200" arpskip="0" arptime_numerator="4" arptime_denominator="4"/>
+      <midiport inputchannel="0" fixedoutputvelocity="-1" outputchannel="1" outputcontroller="0" writable="0" readable="0" fixedinputvelocity="-1" fixedoutputnote="-1" basevelocity="63" outputprogram="1" inputcontroller="0"/>
+      <fxchain numofeffects="1" enabled="1">
+        <effect autoquit_denominator="4" gate="0" autoquit="1" on="1" wet="0.33" autoquit_syncmode="0" autoquit_numerator="4" name="ladspaeffect">
+          <ladspacontrols ports="12">
+            <port04>
+              <data value="0.170775" id="14729" scale_type="log"/>
+            </port04>
+            <port05>
+              <data value="10" id="19880" scale_type="log"/>
+            </port05>
+            <port06>
+              <data value="0.162419" id="25619" scale_type="log"/>
+            </port06>
+            <port07 data="51.3"/>
+            <port08 data="3"/>
+            <port09 data="90"/>
+            <port010 data="2"/>
+            <port011 data="1"/>
+            <port012>
+              <data value="100" id="15301" scale_type="log"/>
+            </port012>
+            <port013>
+              <data value="2990.7" id="16766" scale_type="log"/>
+            </port013>
+            <port014>
+              <data value="0.125" id="21629" scale_type="log"/>
+            </port014>
+            <port015 data="1"/>
+          </ladspacontrols>
+          <key>
+            <attribute value="calf" name="file"/>
+            <attribute value="MultiChorus" name="plugin"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

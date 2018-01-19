@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project type="instrumenttracksettings" creatorversion="1.2.0-rc5" version="1.0" creator="LMMS">
+  <head/>
+  <instrumenttracksettings name="Hihat Electro" solo="0" type="0" muted="0">
+    <instrumenttrack fxch="0" pan="0" usemasterpitch="1" pitchrange="1" pitch="0" basenote="57" vol="100">
+      <instrument name="kicker">
+        <kicker decay_syncmode="0" dist="15.8" noise="1" decay_denominator="4" distend="82.5" endfreq="5" slope="0.06" gain="0.7" startfreq="5" click="0" env="0.164" version="1" endnote="0" startnote="0" decay_numerator="4" decay="119"/>
+      </instrument>
+      <eldata ftype="1" fres="0.8" fcut="5920" fwet="1">
+        <elvol lamt="0" latt="0" lshp="0" userwavefile="" att="0" pdel="0" lpdel="0" hold="0.5" ctlenvamt="0" lspd_denominator="4" lspd_syncmode="0" rel="0.1" lspd_numerator="4" sustain="0.5" lspd="0.1" amt="0" x100="0" dec="0.5"/>
+        <elcut lamt="0" latt="0" lshp="0" userwavefile="" att="0" pdel="0" lpdel="0" hold="0.5" ctlenvamt="0" lspd_denominator="4" lspd_syncmode="0" rel="0.1" lspd_numerator="4" sustain="0.5" lspd="0.1" amt="0" x100="0" dec="0.5"/>
+        <elres lamt="0" latt="0" lshp="0" userwavefile="" att="0" pdel="0" lpdel="0" hold="0.5" ctlenvamt="0" lspd_denominator="4" lspd_syncmode="0" rel="0.1" lspd_numerator="4" sustain="0.5" lspd="0.1" amt="0" x100="0" dec="0.5"/>
+      </eldata>
+      <chordcreator chordrange="1" chord="0" chord-enabled="0"/>
+      <arpeggiator arprange="1" arpskip="0" arpmode="0" arpcycle="0" arptime_numerator="4" arp="0" arptime_syncmode="0" arp-enabled="0" arpmiss="0" arpdir="0" arptime="200" arptime_denominator="4" arpgate="100"/>
+      <midiport outputprogram="1" inputcontroller="0" fixedinputvelocity="-1" outputcontroller="0" writable="0" readable="0" fixedoutputnote="-1" fixedoutputvelocity="-1" outputchannel="1" inputchannel="0" basevelocity="63"/>
+      <fxchain numofeffects="0" enabled="0"/>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
