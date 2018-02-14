@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" version="1.0" creatorversion="1.2.0-rc5" type="instrumenttracksettings">
+  <head/>
+  <instrumenttracksettings muted="0" type="0" name="Emergency" solo="0">
+    <instrumenttrack pitchrange="1" fxch="0" basenote="57" vol="100" pitch="0" pan="0" usemasterpitch="1">
+      <instrument name="kicker">
+        <kicker click="0" decay_syncmode="0" decay_denominator="4" decay="369" endnote="0" version="1" dist="34" slope="0.65" startnote="0" env="0.163" endfreq="1000" noise="0" decay_numerator="4" startfreq="318" distend="100" gain="1"/>
+      </instrument>
+      <eldata fcut="14000" fwet="0" fres="0.5" ftype="0">
+        <elvol lspd_numerator="4" pdel="0" dec="0" lspd_denominator="4" sustain="1" userwavefile="" lamt="0" rel="0.1" lpdel="0" lspd_syncmode="0" lspd="0.1" latt="0" lshp="0" ctlenvamt="0" x100="0" att="0.049" hold="0" amt="1"/>
+        <elcut lspd_numerator="4" pdel="0" dec="0.5" lspd_denominator="4" sustain="0.5" userwavefile="" lamt="0" rel="0.1" lpdel="0" lspd_syncmode="0" lspd="0.1" latt="0" lshp="0" ctlenvamt="0" x100="0" att="0" hold="0.5" amt="0"/>
+        <elres lspd_numerator="4" pdel="0" dec="0.5" lspd_denominator="4" sustain="0.5" userwavefile="" lamt="0" rel="0.1" lpdel="0" lspd_syncmode="0" lspd="0.1" latt="0" lshp="0" ctlenvamt="0" x100="0" att="0" hold="0.5" amt="0"/>
+      </eldata>
+      <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+      <arpeggiator arp="0" arpcycle="0" arpmiss="0" arp-enabled="1" arptime_numerator="4" arpgate="100" arpmode="0" arpskip="0" arptime_denominator="4" arptime_syncmode="0" arptime="250" arprange="1" arpdir="0"/>
+      <midiport fixedoutputvelocity="-1" basevelocity="63" writable="0" inputcontroller="0" outputprogram="1" inputchannel="0" outputcontroller="0" fixedinputvelocity="-1" fixedoutputnote="-1" readable="0" outputchannel="1"/>
+      <fxchain numofeffects="1" enabled="1">
+        <effect gate="0" wet="1" on="1" autoquit_syncmode="0" autoquit_numerator="4" autoquit_denominator="4" name="amplifier" autoquit="1">
+          <AmplifierControls volume="50.1187" right="100" left="100" pan="0"/>
+          <key/>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

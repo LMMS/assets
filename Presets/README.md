@@ -45,10 +45,10 @@ An example of good naming: `Supersaw 1`.
 The following instruments have few presets compared to the other instruments:
 
 1. **FreeBoy** has 9 presets.
-2. **sfxr** has 9 presets.
+2. **sfxr** has 10 presets.
 3. **Vibed** has 4 presets.
 4. **Watsyn** has 5 presets.
 5. **Monstro** has 4 presets.
-6. **Nescaline** has 6 presets.
-7. **LB302** has 7 presets.
+6. **Nescaline** has 8 presets.
+7. **LB302** has 8 presets.
 8. **SID** has 6 presets.

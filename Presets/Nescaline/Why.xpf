@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" version="1.0" creatorversion="1.2.0-rc5" type="instrumenttracksettings">
+  <head/>
+  <instrumenttracksettings muted="0" type="0" name="Why?" solo="0">
+    <instrumenttrack pitchrange="1" fxch="0" basenote="57" vol="100" pitch="0" pan="0" usemasterpitch="1">
+      <instrument name="nes">
+        <nes nfrqmode4="0" nq4="1" envon2="0" envon1="0" vol3="15" swamt2="0" dc2="1" swrate1="0" envlen4="0" swamt1="0" vol2="15" swrate2="0" sweep1="0" envloop2="0" on2="1" on4="1" on3="1" vibr="0" vol="1" envlen2="0" on1="1" crs1="0" crs2="0" vol1="15" envloop1="0" nswp4="0" nmode4="0" envlen1="0" sweep2="0" crs3="0" envloop4="0" nfreq4="15" vol4="3" envon4="0" dc1="3"/>
+      </instrument>
+      <eldata fcut="2093" fwet="1" fres="6.33" ftype="0">
+        <elvol lspd_numerator="4" pdel="0" dec="0.15" lspd_denominator="4" sustain="0" userwavefile="" lamt="0" rel="0" lpdel="0" lspd_syncmode="0" lspd="0.1" latt="0" lshp="0" ctlenvamt="0" x100="0" att="0" hold="0.235" amt="1"/>
+        <elcut lspd_numerator="4" pdel="0" dec="0.5" lspd_denominator="4" sustain="0.5" userwavefile="" lamt="0" rel="0" lpdel="0" lspd_syncmode="0" lspd="0.1" latt="0" lshp="0" ctlenvamt="0" x100="0" att="0" hold="0" amt="-0.585"/>
+        <elres lspd_numerator="4" pdel="0" dec="0.5" lspd_denominator="4" sustain="0.5" userwavefile="" lamt="0" rel="0.1" lpdel="0" lspd_syncmode="0" lspd="0.1" latt="0" lshp="0" ctlenvamt="0" x100="0" att="0" hold="0.5" amt="0"/>
+      </eldata>
+      <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+      <arpeggiator arp="0" arpcycle="0" arpmiss="0" arp-enabled="0" arptime_numerator="4" arpgate="100" arpmode="0" arpskip="0" arptime_denominator="4" arptime_syncmode="0" arptime="200" arprange="1" arpdir="0"/>
+      <midiport fixedoutputvelocity="-1" basevelocity="63" writable="0" inputcontroller="0" outputprogram="1" inputchannel="0" outputcontroller="0" fixedinputvelocity="-1" fixedoutputnote="-1" readable="0" outputchannel="1"/>
+      <fxchain numofeffects="1" enabled="1">
+        <effect gate="0" wet="1" on="1" autoquit_syncmode="0" autoquit_numerator="4" autoquit_denominator="4" name="amplifier" autoquit="1">
+          <AmplifierControls volume="35.4813" right="100" left="100" pan="0"/>
+          <key/>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
