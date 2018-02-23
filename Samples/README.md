@@ -32,11 +32,11 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 2. Capitalizing the first letter of each word in the filenames.
 
-3. If the samples are tuned and have defined [pitches](https://en.wikipedia.org/wiki/Pitch_(music)), put their pitches at the end of their filenames between square brackets like this: `Acoustic Guitar [A4]`.
+3. If the samples are tuned and have defined [pitches](https://en.wikipedia.org/wiki/Pitch_(music)), put their pitches at the end of their filenames preceded by a hyphen like this: `Acoustic Guitar - A4`.
 
-4. If the samples are loops and have defined [tempos](https://en.wikipedia.org/wiki/Tempo), put their tempos at the end of their filenames between square brackets like this: `Drum Loop [120 bpm]`.
+4. If the samples are loops and have defined [tempos](https://en.wikipedia.org/wiki/Tempo), put their tempos at the end of their filenames preceded by a hyphen like this: `Drum Loop - 120 bpm`.
 
-Note: If the samples have defined pitches and tempos, put their pitches before their tempos like this: `Acoustic Guitar Melody [A4, 120 bpm]`.
+Note: If the samples have defined pitches and tempos, put their pitches before their tempos like this: `Acoustic Guitar Melody - A4 120 bpm`.
 
 5. If you have multiple related samples and you want to version them, put their numbers at the end of their filenames after a space.
 
@@ -44,7 +44,7 @@ Note: If the samples have defined pitches and tempos, put their pitches before t
 
 *An example of bad naming: `bEST-sOUND-eVER!_1 A4`.*
 
-*An example of good naming: `Acoustic Guitar 1 [A4]`.*
+*An example of good naming: `Acoustic Guitar 1 - A4`.*
 
 * The samples must be put in the folders that best describe them. If your samples don't belong to one of the existing folders or you are not sure where to put them, please put them in the `Unsorted samples` folder.
 
