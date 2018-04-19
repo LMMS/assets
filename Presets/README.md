@@ -40,6 +40,11 @@ An example of good naming: `Supersaw 1`.
 
 * The presets must be put in their instrument or effect folder.
 
+### Unneeded presets:
+
+* **TripleOscillator**
+* **ZynAddSubFX**: Its factory presets are sufficient.
+
 ### Needed presets:
 
 The following instruments have few presets compared to the other instruments:
