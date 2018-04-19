@@ -8,6 +8,10 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 * The samples must be created/recorded by you. They can not be taken from any other sample library or pack. The only exception to this rule is if you have a valid way to prove they are CC0.
 
+#### Misc rules:
+
+* Chord samples are not wanted.
+
 #### Technical rules:
 
 * The samples must be in the [FLAC](https://en.wikipedia.org/wiki/FLAC) [audio file format](https://en.wikipedia.org/wiki/Audio_file_format) with an [audio bit depth](https://en.wikipedia.org/wiki/Audio_bit_depth) of 24-bit.
