@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project type="instrumenttracksettings" creatorversion="1.2.0-rc7.185" creator="LMMS" version="1.0">
+  <head/>
+  <instrumenttracksettings type="0" name="FM Pad" muted="0" solo="0">
+    <instrumenttrack fxch="0" pitch="0" pitchrange="1" basenote="57" vol="100" usemasterpitch="1" pan="0">
+      <instrument name="monstro">
+        <monstro l1att="0" l1rat="5053" v1l1="0" e2hol="0" l1rat_syncmode="0" v3l1="0" e1hol_syncmode="0" f2e2="0" e2slo="0" e1att_denominator="4" l2rat="1" l1att_syncmode="0" e2hol_numerator="4" w1e1="0" v2e1="0" e1pre_syncmode="0" f3l1="0" s3e2="0" f1l1="0" o1vol="21.5" o2spo="4.7" e1rel_numerator="4" o3wav2="2" e2rel_denominator="4" e2hol_denominator="4" v1e1="0" e2att_syncmode="0" o3synr="0" o3pan="0" e2dec="0" l2att_numerator="4" l2att="0" f3e2="0" p3l1="0" f1e1="0" e2att="0" e1hol="0" p3e1="0" o3sub="0" l1phs="0" o1pan="0" o2ftl="13" w1l1="1" e2att_denominator="4" e1sus="1" o2synr="0" p2e1="0" o2vol="23.8" e2pre="0" o2pan="0" v2l1="0" l2wav="0" e2rel="0" o2crs="-24" l1att_numerator="4" e1pre_denominator="4" o1ssr="0" l2att_denominator="4" p1l1="0" p1e2="0" s3l1="0" e1hol_denominator="4" v2l2="0" l2phs="0" e1dec_denominator="4" v1e2="0" e1hol_numerator="4" o1ftr="-24" e2att_numerator="4" o3spo="-95.9" w1l2="0" e1rel="0" e1pre_numerator="4" e2hol_syncmode="0" e1dec="0" l2att_syncmode="0" o3vol="43" o1crs="-24" o2wav="2" o1ssf="0" v3l2="0" o2ftr="13" p2l2="0" e1dec_syncmode="0" v2e2="0" o3syn="0" e2pre_numerator="4" e1pre="0" e1rel_denominator="4" s3l2="0" l1rat_numerator="4" l1rat_denominator="4" l2rat_syncmode="0" l1wav="0" v1l2="0" o3wav1="0" o1pw="45.36" e2sus="1" e2dec_numerator="4" e1rel_syncmode="0" o2syn="0" e1slo="0" e2rel_syncmode="0" o1spo="0" v3e1="0" s3e1="0" o1ftl="-24" w1e2="0" l2rat_denominator="4" e1att_syncmode="0" f3e1="0" f1e2="0" e2pre_syncmode="0" o3crs="-24" f3l2="0" f2e1="0" e1att="0" p1e1="0" o23mo="2" e2rel_numerator="4" e2dec_denominator="4" v3e2="0" p2l1="0" f2l2="0" f1l2="0" e1att_numerator="4" e2dec_syncmode="0" p1l2="0" f2l1="0" l1att_denominator="4" p3l2="0" e1dec_numerator="4" e2pre_denominator="4" p3e2="0" l2rat_numerator="4" p2e2="0">
+          <key/>
+        </monstro>
+      </instrument>
+      <eldata ftype="0" fcut="14000" fwet="0" fres="0.5">
+        <elvol sustain="0.5" pdel="0" lamt="0" ctlenvamt="0" dec="0.5" amt="0" lshp="0" lpdel="0" lspd="0.1" latt="0" lspd_numerator="4" att="0" lspd_denominator="4" hold="0.5" userwavefile="" x100="0" rel="0.1" lspd_syncmode="0"/>
+        <elcut sustain="0.5" pdel="0" lamt="0" ctlenvamt="0" dec="0.5" amt="0" lshp="0" lpdel="0" lspd="0.1" latt="0" lspd_numerator="4" att="0" lspd_denominator="4" hold="0.5" userwavefile="" x100="0" rel="0.1" lspd_syncmode="0"/>
+        <elres sustain="0.5" pdel="0" lamt="0" ctlenvamt="0" dec="0.5" amt="0" lshp="0" lpdel="0" lspd="0.1" latt="0" lspd_numerator="4" att="0" lspd_denominator="4" hold="0.5" userwavefile="" x100="0" rel="0.1" lspd_syncmode="0"/>
+      </eldata>
+      <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+      <arpeggiator arpcycle="0" arptime_syncmode="0" arprange="1" arpgate="100" arpskip="0" arpmiss="0" arpmode="0" arp-enabled="0" arp="0" arptime_denominator="4" arpdir="0" arptime_numerator="4" arptime="200"/>
+      <midiport basevelocity="63" writable="0" fixedoutputnote="-1" inputcontroller="0" inputchannel="0" outputprogram="1" outputchannel="1" fixedoutputvelocity="-1" outputcontroller="0" fixedinputvelocity="-1" readable="0"/>
+      <fxchain numofeffects="1" enabled="1">
+        <effect wet="1" autoquit_denominator="4" name="ladspaeffect" autoquit_syncmode="0" gate="0" on="1" autoquit_numerator="4" autoquit="1">
+          <ladspacontrols link="1" ports="0"/>
+          <key>
+            <attribute name="file" value="dc_remove_1207"/>
+            <attribute name="plugin" value="dcRemove"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
