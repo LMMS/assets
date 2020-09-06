@@ -2,5 +2,6 @@ Instrument Descriptions:
     - https://en.wikipedia.org/wiki/Madal
     - https://ne.wikipedia.org/wiki/मादल
 
-Instrument Picture:
+Instrument Pictures:
     - see wikipedia
+    - https://www.google.com/search?tbm=isch&q=maadal
