@@ -14,19 +14,19 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 #### Technical rules:
 
-* The samples must be in the [FLAC](https://en.wikipedia.org/wiki/FLAC) [audio file format](https://en.wikipedia.org/wiki/Audio_file_format) with an [audio bit depth](https://en.wikipedia.org/wiki/Audio_bit_depth) of 24-bit.
+* The samples must be in the FLAC audio file format with an audio bit depth of 24-bit.
 
-* The samples must be in [mono](https://en.wikipedia.org/wiki/Monaural) files, unless they contain [stereo](https://en.wikipedia.org/wiki/Stereophonic_sound) signals.
+* The samples must be in mono files, unless they contain stereo signals.
 
 * If the samples contain stereo signals, they should be mid-panned. An exception to this rule is loops with different samples.
 
-* The samples must be [peak normalized](https://en.wikipedia.org/wiki/Audio_normalization#Peak_normalization) to -3 [dBFS](https://en.wikipedia.org/wiki/DBFS).
+* The samples must be peak normalized to -3 dBFS.
 
 * The samples must not contain unnecessary delay or start/end silence.
 
-* The samples must contain the least amount possible of unwanted [noise](https://en.wikipedia.org/wiki/Noise), [aliasing](https://en.wikipedia.org/wiki/Aliasing/), pops or clicks.
+* The samples must contain the least amount possible of unwanted noise, aliasing, pops or clicks.
 
-* The samples must be without added [reverberation](https://en.wikipedia.org/wiki/Reverberation) or [delay](https://en.wikipedia.org/wiki/Delay_(audio_effect)) effects unless these effects are necessary for them.
+* The samples must be without added reverberation or delay effects unless these effects are necessary for them.
 
 #### Naming and organizing rules:
 
@@ -36,9 +36,9 @@ Welcome to the LMMS samples folder. Here you can commit your samples for review 
 
 2. Capitalizing the first letter of each word in the filenames.
 
-3. If the samples are tuned and have defined [pitches](https://en.wikipedia.org/wiki/Pitch_(music)), put their pitches at the end of their filenames preceded by a hyphen like this: `Acoustic Guitar - A4`.
+3. If the samples are tuned and have defined pitches, put their pitches at the end of their filenames preceded by a hyphen like this: `Acoustic Guitar - A4`.
 
-4. If the samples are loops and have defined [tempos](https://en.wikipedia.org/wiki/Tempo), put their tempos at the end of their filenames preceded by a hyphen like this: `Drum Loop - 120 bpm`.
+4. If the samples are loops and have defined tempos, put their tempos at the end of their filenames preceded by a hyphen like this: `Drum Loop - 120 bpm`.
 
 Note: If the samples have defined pitches and tempos, put their pitches before their tempos like this: `Acoustic Guitar Melody - A4 120 bpm`.
 
