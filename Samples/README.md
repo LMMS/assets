@@ -1,65 +1,34 @@
-Welcome to the LMMS samples folder. Here you can commit your samples for review by the managers for inclusion in either the library or as a separate pack.
+The samples in this folder make up the sample library which, when complete, will be included in the default installation of LMMS. Please follow the rules below when contributing to the library.
 
-### Commit rules:
+### Legal rules
 
-#### Legal rules:
+* Samples must be [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (dedicated to the public domain).
+* Samples must be created/recorded by you. They can not be taken from any other sample library or pack. The only exception to this rule is if you have a valid way to prove they are CC0.
 
-* The samples you commit must be [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+### Miscellaneous rules
 
-* The samples must be created/recorded by you. They can not be taken from any other sample library or pack. The only exception to this rule is if you have a valid way to prove they are CC0.
+The following sample types are sorted by descending priority.
+  1. Drums/Percussion
+  2. Foley/SFX
+  3. Loops
+  4. Notes/Chords
 
-#### Misc rules:
+### Audio rules
 
-* Chord samples are not wanted.
+* Samples must be in the FLAC audio file format with a sampling rate of 44100 Hz.
+* Samples must be in mono files unless they contain stereo signals.
+* Samples that contain stereo signals must be mid-panned.
+* Samples must be peak-normalized to -3 dBFS.
+* Samples must not contain unnecessary start/end silence.
+* Samples should contain the least amount possible of noise.
+* Samples should not contain unnecessary reverb or echos.
 
-#### Technical rules:
+### File and folder rules
 
-* The samples must be in the FLAC audio file format with an audio bit depth of 24-bit.
-
-* The samples must be in mono files, unless they contain stereo signals.
-
-* If the samples contain stereo signals, they should be mid-panned. An exception to this rule is loops with different samples.
-
-* The samples must be peak normalized to -3 dBFS.
-
-* The samples must not contain unnecessary delay or start/end silence.
-
-* The samples must contain the least amount possible of unwanted noise, aliasing, pops or clicks.
-
-* The samples must be without added reverberation or delay effects unless these effects are necessary for them.
-
-#### Naming and organizing rules:
-
-* The samples' filenames must follow the following naming rules:
-
-1. The filenames must be in English.
-
-2. Capitalizing the first letter of each word in the filenames.
-
-3. If the samples are tuned and have defined pitches, put their pitches at the end of their filenames preceded by a hyphen like this: `Acoustic Guitar - A4`.
-
-4. If the samples are loops and have defined tempos, put their tempos at the end of their filenames preceded by a hyphen like this: `Drum Loop - 120 bpm`.
-
-Note: If the samples have defined pitches and tempos, put their pitches before their tempos like this: `Acoustic Guitar Melody - A4 120 bpm`.
-
-5. If you have multiple related samples and you want to version them, put their numbers at the end of their filenames after a space.
-
-6. The filenames must be descriptive and neat.
-
-*An example of bad naming: `bEST-sOUND-eVER!_1 A4`.*
-
-*An example of good naming: `Acoustic Guitar 1 - A4`.*
-
-* The samples must be put in the folders that best describe them. If your samples don't belong to one of the existing folders or you are not sure where to put them, please put them in the `Unsorted samples` folder.
-
-#### Metadata tags:
-
-The samples' metadata tags must be empty.
-
-### Definitions:
-`Sample library`: These samples are included in the default installation of LMMS.
-
-`Sample packs`: These resource packs will be available for download on the LMMS website, once finished. ~~(http://lmms.io/download/samples)~~ (The page is inactive at the moment).
-
-#### Which one should I choose?
-If you have a large amount of samples, you will be better off commiting them as a `sample pack`. The `library`'s purpose is to have a small set of good quality samples to get users started.
+* Metadata tags must be empty.
+* Filenames must be in English and words must start with a capital letter.
+* Filenames should be descriptive but not too long.
+* If a sample is tuned, put its pitch at the end of the filename after a hyphen, like this: `Acoustic Guitar - A#4`.
+* If a sample is a loop, put its tempo at the end of the filename after a hyphen, like this: `Swingy Drum Loop - 120 BPM`.
+* If you have related samples, sort them by putting numbers, starting with 1, at the end of their filenames, like this: `Muffled Impact 1`.
+* Samples should be put in the folders that best describe them. If your samples do not belong to any of the existing folders, or if you are not sure where to put them, please put them in the `Unsorted samples` folder.
