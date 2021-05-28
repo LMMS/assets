@@ -2,7 +2,7 @@ The presets in this folder are additions to the preset library included in the d
 
 ### Legal rules
 
-* Presets must be CC0 (https://creativecommons.org/publicdomain/zero/1.0/) (dedicated to the public domain).
+* Presets must be [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (dedicated to the public domain).
 * Presets must be created by you. They can not be taken from any other preset library or pack. The only exception to this rule is if you have a valid way to prove they are CC0.
 
 ### Technical rules
