@@ -21,20 +21,25 @@ The presets in this folder are additions to the preset library included in the d
 
 Do not drown the instrument in effects, let it shine!
 
-### Instruments with enough presets
+### Number of presets
 
-* TripleOscillator
-* ZynAddSubFX
+Instrument       | Current | New
+---------------- | ------- | ---
+BitInvader       | 14      | 2
+FreeBoy          | 0       | 9
+Kicker           | 10      | 3
+LB302            | 6       | 2
+Monstro          | 4       | 10
+Nescaline        | 5       | 3
+OpulenZ          | 15      | 6
+Organic          | 10      | 0
+sfxr             | 0       | 10
+SID              | 6       | 0
+TripleOscillator | 72      | 5
+Vibed            | 2       | 2
+Watsyn           | 3       | 2
+Xpressive        | 22      | 0
 
-### Instruments in need of presets
+**ZynAddSubFX has enough presets.**
 
-Instrument | # Presets
----------- | ---------
-FreeBoy    | 9
-LB302      | 8
-Monstro    | 4
-Nescaline  | 8
-sfxr       | 10
-SID        | 6
-Vibed      | 4
-Watsyn     | 5
+**Instruments with a small total of presets are a priority.**
