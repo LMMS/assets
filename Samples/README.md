@@ -10,8 +10,9 @@ The samples in this folder make up the sample library which, when complete, will
 The following sample types are sorted by descending priority.
   1. Drums/Percussion
   2. Foley/SFX
-  3. Loops
-  4. Notes/Chords
+  3. Vocals
+  4. Loops
+  5. Notes/Chords
 
 ### Audio rules
 
