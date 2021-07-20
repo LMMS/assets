@@ -25,15 +25,15 @@ Do not drown the instrument in effects, let it shine!
 
 Instrument       | Current | New
 ---------------- | ------- | ---
-BitInvader       | 14      | 2
-FreeBoy          | 0       | 9
+BitInvader       | 14      | 3
+FreeBoy          | 0       | 10
 Kicker           | 10      | 3
 LB302            | 6       | 2
 Monstro          | 4       | 10
-Nescaline        | 5       | 3
+Nescaline        | 5       | 4
 OpulenZ          | 15      | 6
 Organic          | 10      | 0
-sfxr             | 0       | 10
+sfxr             | 0       | 11
 SID              | 6       | 0
 TripleOscillator | 72      | 5
 Vibed            | 2       | 2

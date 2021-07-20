@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project version="20" creatorversion="1.3.0-alpha.1.102+g89fc6c960" creator="LMMS" type="instrumenttracksettings">
+  <head/>
+  <instrumenttracksettings solo="0" muted="0" name="Follow The Modulation" mutedBeforeSolo="0" type="0">
+    <instrumenttrack firstkey="0" usemasterpitch="1" fxch="0" vol="46.8" enablecc="0" lastkey="127" pan="0" pitch="0" pitchrange="1" basenote="69">
+      <midicontrollers cc45="0" cc119="0" cc122="0" cc126="0" cc30="0" cc53="0" cc24="0" cc34="0" cc125="0" cc85="0" cc13="0" cc68="0" cc44="0" cc0="0" cc10="0" cc60="0" cc38="0" cc72="0" cc115="0" cc92="0" cc41="0" cc86="0" cc114="0" cc81="0" cc18="0" cc69="0" cc121="0" cc16="0" cc32="0" cc31="0" cc103="0" cc15="0" cc87="0" cc127="0" cc65="0" cc2="0" cc108="0" cc33="0" cc1="0" cc11="0" cc63="0" cc19="0" cc20="0" cc95="0" cc100="0" cc21="0" cc123="0" cc35="0" cc105="0" cc9="0" cc39="0" cc107="0" cc40="0" cc48="0" cc113="0" cc120="0" cc50="0" cc47="0" cc82="0" cc64="0" cc57="0" cc70="0" cc46="0" cc106="0" cc118="0" cc54="0" cc27="0" cc111="0" cc90="0" cc101="0" cc76="0" cc88="0" cc99="0" cc49="0" cc117="0" cc55="0" cc22="0" cc67="0" cc80="0" cc29="0" cc42="0" cc52="0" cc5="0" cc79="0" cc110="0" cc74="0" cc28="0" cc89="0" cc104="0" cc97="0" cc61="0" cc75="0" cc112="0" cc25="0" cc4="0" cc73="0" cc93="0" cc98="0" cc17="0" cc84="0" cc94="0" cc102="0" cc56="0" cc43="0" cc124="0" cc7="0" cc8="0" cc12="0" cc78="0" cc3="0" cc26="0" cc6="0" cc51="0" cc59="0" cc71="0" cc14="0" cc116="0" cc23="0" cc77="0" cc58="0" cc37="0" cc83="0" cc91="0" cc62="0" cc96="0" cc36="0" cc109="0" cc66="0"/>
+      <instrument name="bitinvader">
+        <bitinvader sampleLength="57" normalize="0" version="0.1" sampleShape="b2D/PNpWqz062+A98HEVPjvJRz6QNXs+huyOPgQXkD7WFYE+GDpVPjy4Lz7YAx0+3TsWPscrCD4rZsQ9cbEOPXdmC71Ca7e94U71vbw3Ar6PQv+9ZUQEvnAsH74FuVS+qhKMvgEcqL7y1LO+xCOtvhQdmL6yAm6+QnYPvvYps7w6ksw9tjVCPihIZT68j1k+ItJQPqJTgj4As7g+B17iPjU72T6MqqE+YnBBPq7r5j2Rlug9klI3PrWVjT44qLk+MmfKPkw0tj630II+pGP4PbgRfrw2LwC+Fs5EvjHuX76K1VK+jeUXvrUpg70rFyG81PACvfl2171Avhq+KSj1vTbS47zraaw9cQdPPjvLqT4CDO0+cuAPP0g5Fz+olwg/fHvRPkWEhT5F4Qs+r5iXPQ8lsT2IUxk+IYtTPqcTTz74bfg9OKK1u7b85L2wX929/H9bPZKxnT6+Kwo/zsAsPw4wHz9MvpU+9k87vvYlA7928RK/hvjSvj6boL3EOJI+Gu8EP0KiID/xXTA/Lu42P0mmHD9q1YQ+hQWCvm1KHr+8pB2/WKmLvsIIQT6R/+g+XyzAPv1fHj4Wbgo+3Gq9PiE3ID9KET0/Y4wpPzgOvD6gaUg8HvvPvbZiWz3puXQ+d4WrPkhUxD6Y47s+fgw/Pm4wt73RSEi+7GS1vaNUT72qqVS+orXAvnd+277xcri+iIkEvlHQJz5VIGo+MEGEO2+GeL7y8bm+XkrfvrEP6L5sP7a++BN8vpsfTr7ZPQ2+hq/FvLLPmD2KnwQ+YRkwPmVAgj7gc7A+arW0Pkm/lD5C70A+Pt8fPZbKyr2kKVK+GqWtvgqZ5b66Is2+BRMjvpy9LD7+Pa4+sIRXPvAA0rrUXXW8fhr+PW0chj4OhbY+rrG2PsV6gj4I1QM+SysnvUx1lr5Q6fe+J83ivioPc76njtC9/cj8vbjCG766o529NgqaPSUccj7OE4c+rDfWPSpbFL0CWwC95ZvyvBZqy72KpoS9H9svPu275j7MSRY/pBUSP8JQ8T6xsJg+nI9PPexfNb5Eloq+wH1bvi4up70=" interpolation="1">
+          <key/>
+        </bitinvader>
+      </instrument>
+      <eldata fres="1" fwet="1" ftype="13" fcut="448">
+        <elvol lspd_denominator="4" x100="0" lshp="0" lspd_syncmode="0" lpdel="0" rel="0.1" sustain="0.572" att="0.018" pdel="0" lamt="1" hold="0.528" dec="0.992" ctlenvamt="0" amt="1" latt="0.096" userwavefile="" lspd="0.0046" lspd_numerator="4"/>
+        <elcut lspd_denominator="4" x100="0" lshp="0" lspd_syncmode="0" lpdel="0" rel="0.1" sustain="0.712" att="0.096" pdel="0" lamt="1" hold="0" dec="0" ctlenvamt="0" amt="0.12" latt="0" userwavefile="" lspd="0.0022" lspd_numerator="4"/>
+        <elres lspd_denominator="4" x100="0" lshp="0" lspd_syncmode="0" lpdel="0" rel="0.1" sustain="0.5" att="0" pdel="0" lamt="0" hold="0.5" dec="0.5" ctlenvamt="0" amt="0" latt="0" userwavefile="" lspd="0.1" lspd_numerator="4"/>
+      </eldata>
+      <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+      <arpeggiator arpdir="0" arptime_syncmode="0" arprange="1" arpcycle="0" arp-enabled="0" arprepeats="1" arptime_numerator="4" arpgate="100" arpmode="0" arpmiss="0" arptime="200" arpskip="0" arp="0" arptime_denominator="4"/>
+      <fxchain enabled="0" numofeffects="0"/>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
