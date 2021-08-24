@@ -37,7 +37,7 @@ sfxr             | 0       | 11
 SID              | 6       | 0
 TripleOscillator | 72      | 5
 Vibed            | 2       | 2
-Watsyn           | 3       | 2
+Watsyn           | 3       | 3
 Xpressive        | 22      | 0
 
 **ZynAddSubFX has enough presets.**

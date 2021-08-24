@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project version="20" creatorversion="1.3.0-alpha.1.102+g89fc6c960" type="instrumenttracksettings" creator="LMMS">
+  <head/>
+  <instrumenttracksettings name="Dubsteppy Bass" muted="0" solo="0" mutedBeforeSolo="0" type="0">
+    <instrumenttrack vol="100" pitchrange="1" basenote="69" lastkey="127" enablecc="0" pan="0" fxch="0" usemasterpitch="1" pitch="0.00610352" firstkey="0">
+      <midicontrollers cc102="0" cc43="0" cc15="0" cc56="0" cc70="0" cc34="0" cc20="0" cc123="0" cc59="0" cc74="0" cc13="0" cc5="0" cc60="0" cc32="0" cc117="0" cc93="0" cc119="0" cc76="0" cc126="0" cc33="0" cc97="0" cc110="0" cc52="0" cc58="0" cc19="0" cc8="0" cc90="0" cc114="0" cc94="0" cc66="0" cc29="0" cc40="0" cc112="0" cc75="0" cc35="0" cc30="0" cc27="0" cc96="0" cc118="0" cc72="0" cc86="0" cc103="0" cc1="0" cc85="0" cc108="0" cc45="0" cc2="0" cc105="0" cc122="0" cc31="0" cc62="0" cc68="0" cc109="0" cc92="0" cc81="0" cc28="0" cc25="0" cc7="0" cc9="0" cc125="0" cc107="0" cc53="0" cc127="0" cc83="0" cc77="0" cc87="0" cc44="0" cc71="0" cc48="0" cc22="0" cc49="0" cc69="0" cc91="0" cc100="0" cc65="0" cc50="0" cc14="0" cc99="0" cc17="0" cc57="0" cc26="0" cc12="0" cc10="0" cc101="0" cc79="0" cc37="0" cc98="0" cc64="0" cc38="0" cc80="0" cc61="0" cc78="0" cc88="0" cc116="0" cc120="0" cc6="0" cc23="0" cc113="0" cc3="0" cc47="0" cc36="0" cc115="0" cc63="0" cc24="0" cc4="0" cc54="0" cc95="0" cc41="0" cc55="0" cc121="0" cc67="0" cc104="0" cc106="0" cc11="0" cc82="0" cc84="0" cc89="0" cc18="0" cc0="0" cc51="0" cc111="0" cc39="0" cc73="0" cc16="0" cc21="0" cc124="0" cc46="0" cc42="0"/>
+      <instrument name="watsyn">
+        <watsyn envHold="0" a2_vol="200" envAtt="0" b2_wave="AAAAAGHu6Tz11Wk980GvPVR06T38uhE+X50uPk1bSz7E7mc+6CiCPkE/kD56N54+qg6sPu/BuT5qTsc+SLHUPrvn4T4F7+4+a8T7PqAyBD9wZwo/Wn8QPxh5Fj9rUxw/Gw0iP/WkJz/NGS0/gGoyP/OVNz8Rmzw/znhBPyYuRj8buko/vhtPPyBSUz9kXFc/sTlbPzjpXj8yamI/57tlP6XdaD/Dzms/pI5uP7cccT9xeHM/VaF1P/CWdz/ZWHk/seZ6PyZAfD/wZH0/0lR+P5kPfz8elX8/RuV/PwAAgD9G5X8/HpV/P5kPfz/RVH4/8GR9PyZAfD+x5no/2Fh5P/CWdz9VoXU/cHhzP7YccT+kjm4/ws5rP6TdaD/nu2U/MmpiPzXpXj+vOVs/ZVxXPyFSUz+9G08/HLpKPyYuRj/MeEE/EJs8P/KVNz9/ajI/yxktP/OkJz8ZDSI/alMcPxd5Fj9ZfxA/b2cKP58yBD9qxPs+/e7uPrTn4T5HsdQ+ak7HPu/BuT6rDqw+ezeePjo/kD7iKII+uu5nPkJbSz5VnS4+8roRPmN06T3jQa892NVpPS3u6Twuvbuzi+7pvAfWab37Qa+9WnTpvf66Eb5gnS6+XVtLvtXuZ77vKIK+Rz+QvoE3nr6xDqy+9cG5vm9Ox75MsdS+uefhvgLv7r5oxPu+njIEv25nCr9ffxC/HXkWv3BTHL8cDSK/9aQnv80ZLb+BajK/9JU3vxKbPL/OeEG/KC5Gvxu6Sr+6G0+/IFJTv2ZcV7+0OVu/OelevzZqYr/pu2W/pN1ov8POa7+kjm6/txxxv3B4c79VoXW/75Z3v9lYeb+w5nq/JkB8v/Fkfb/SVH6/mQ9/vx6Vf79G5X+/AACAv0blf78elX+/mA9/v9JUfr/wZH2/JkB8v7Dmer/XWHm/75Z3v1Ohdb9weHO/tBxxv6OObr/Azmu/pN1ov+i7Zb8yamK/OOlev7A5W79mXFe/G1JTv7obT78Wukq/Ii5Gv854Qb8Pmzy/85U3v35qMr/NGS2/8qQnvxsNIr9pUxy/GXkWv1h/EL9qZwq/njIEv2HE+74C7+6+sefhvkSx1L5gTse+7MG5vqEOrL54N56+Nz+Qvucogr7T7me+TFtLvk+dLr7cuhG+N3TpvbhBr73B1Wm9fu3pvA==" envAtt_syncmode="0" b1_pan="0" envHold_denominator="4" b1_rtune="0" a2_mult="7" a1_ltune="0" b1_wave="AAAAAGHu6Tz11Wk980GvPVR06T38uhE+X50uPk1bSz7E7mc+6CiCPkE/kD56N54+qg6sPu/BuT5qTsc+SLHUPrvn4T4F7+4+a8T7PqAyBD9wZwo/Wn8QPxh5Fj9rUxw/Gw0iP/WkJz/NGS0/gGoyP/OVNz8Rmzw/znhBPyYuRj8buko/vhtPPyBSUz9kXFc/sTlbPzjpXj8yamI/57tlP6XdaD/Dzms/pI5uP7cccT9xeHM/VaF1P/CWdz/ZWHk/seZ6PyZAfD/wZH0/0lR+P5kPfz8elX8/RuV/PwAAgD9G5X8/HpV/P5kPfz/RVH4/8GR9PyZAfD+x5no/2Fh5P/CWdz9VoXU/cHhzP7YccT+kjm4/ws5rP6TdaD/nu2U/MmpiPzXpXj+vOVs/ZVxXPyFSUz+9G08/HLpKPyYuRj/MeEE/EJs8P/KVNz9/ajI/yxktP/OkJz8ZDSI/alMcPxd5Fj9ZfxA/b2cKP58yBD9qxPs+/e7uPrTn4T5HsdQ+ak7HPu/BuT6rDqw+ezeePjo/kD7iKII+uu5nPkJbSz5VnS4+8roRPmN06T3jQa892NVpPS3u6Twuvbuzi+7pvAfWab37Qa+9WnTpvf66Eb5gnS6+XVtLvtXuZ77vKIK+Rz+QvoE3nr6xDqy+9cG5vm9Ox75MsdS+uefhvgLv7r5oxPu+njIEv25nCr9ffxC/HXkWv3BTHL8cDSK/9aQnv80ZLb+BajK/9JU3vxKbPL/OeEG/KC5Gvxu6Sr+6G0+/IFJTv2ZcV7+0OVu/OelevzZqYr/pu2W/pN1ov8POa7+kjm6/txxxv3B4c79VoXW/75Z3v9lYeb+w5nq/JkB8v/Fkfb/SVH6/mQ9/vx6Vf79G5X+/AACAv0blf78elX+/mA9/v9JUfr/wZH2/JkB8v7Dmer/XWHm/75Z3v1Ohdb9weHO/tBxxv6OObr/Azmu/pN1ov+i7Zb8yamK/OOlev7A5W79mXFe/G1JTv7obT78Wukq/Ii5Gv854Qb8Pmzy/85U3v35qMr/NGS2/8qQnvxsNIr9pUxy/GXkWv1h/EL9qZwq/njIEv2HE+74C7+6+sefhvkSx1L5gTse+7MG5vqEOrL54N56+Nz+Qvucogr7T7me+TFtLvk+dLr7cuhG+N3TpvbhBr73B1Wm9fu3pvA==" envAmt="0" xtalk="0" a1_pan="0" a2_pan="0" a1_vol="7.2" a1_rtune="0" amod="3" a2_rtune="0" a1_wave="uB6FvnA9Cr9wPQq/cD0Kv3A9Cr9wPQq/DNejvgzXo74M16O+DNejvgzXo74M16O+awOdvskvlr7eT42+lUOLvks3ib4CK4e+AACAvpDCdb4ghWu+HS9dvgDXo7wA16O8AAAAAAB0WrwAdNq7CNcjPArXozyQwvU8ioiIPcsvlj0M16M9TX6xPY8lvz1SG+g96rQBPitcDz5sAx0+rKoqPh3oND4u+UU+LfBKPg1rXz4oXI++mJmZvpiZmb6YmZm+KFyPvhSuh74AAIC+2KNwvlAbaL4QdFq+LflFvoslP76oqiq+ZwMdviZcD77mtAG+ShvovcjMzL1HfrG9xi+WvYjCdb2GJT+9g4gIvciHz7wQwy68wBKDO+jqmDyQiAg9rJtEPWVXgD3zYJ49gmq8PRB02j0A16M8ANejPADXozxqEgM9VDk0PSpcjz0M16M97lG4PdDMzD3m1cS+AN+8vhvotL7sUbi+exSuvtDMzL0t+UW+iyU/vuhROL7oUTi+mJmZvpiZmb6YmZm+mJmZvpiZmb6YmZm+mJmZvsgvlr74xZK+KFyPvljyi76IiIi+uB6Fvrgehb64HoW+6LSBvjCWfL6QwnW+7+5uvk4baL6tR2G+DHRavmygU77LzEy+KvlFvoklP75IfjG+qKoqvgjXI75oAx2+zsxMvuxROL4oXA++KFwPvihcD74oXA++KFwPvihcD74oXA++KFwPvoiICL7otAG+iIgIvui0Ab6QwvW9UBvovRB02r3otIG+MJZ8vpDCdb7w7m6+UBtovrBHYb6wR2G+sEdhvrBHYb4t+UW+iyU/vlU5NL6wR2G+sEdhvrBHYb6wR2G+sEdhvrBHYb74KFy+QApXvojrUb4Wrke+XI9CvqJwPb58FK6+fBSuvnwUrr58FK6+fBSuvnwUrr58FK6+fBSuvnwUrr58FK6+fBSuvnwUrr58FK6+fBSuvobrUb+G61G/hutRv4brUb+G61G/zMxMv8zMTL/MzEy/iIhIv/xiSb9wPUq/5BdLv1jyS7/C9Ui/uB5Fv65HQb+kcD2/pHA9v6RwPb+kcD2/pHA9v6RwPb+kcD2/pHA9v6RwPb+kcD2/EFg5v30/Nb/pJjG/fT81vw8tMr+gGi+/Mggsv8P1KL9U4yW/5tAiv3e+H7+uRyG/Urgevw==" bmod="3" b2_vol="52" envDec="0" abmix="28" a2_wave="AAAAAGHu6Tz11Wk980GvPVR06T38uhE+X50uPgjXoz0Q1yM9ENcjPRDXIz2QwnU9kML1PZDC9T0I16M9ANejPADXozwA16M8ANejPOhROD0oXI89CtejPc3MzD2QwvU9KVwPPgvXIz4K1yM+61E4PszMzL6OJT++awMdvgDXI73QzMw9CNejPShcDz4oXA8+kML1PZDC9b4AAAC/uB4Fv3A9Cr9wPQq/cD0Kv3A9Cr9wPQq/AAAAv5DC9b5voNO+LfnFvuxRuL4M16O+mJmZvrgehb4I1yO+gMJ1vexRuL64HgW/cD0Kv3A9Cr9wPQq/AAAAv5DC9b4gheu+PwrXvs3MzL57FK6+CtejvpmZmb4oXI++6FE4vpDC9b0A1yO9AAAAAAAAAADQzEy+fBSuvlyPwr5cj8K+XI/CvszMzL64HsW+pHC9vpDCtb7bQKe+OW2gvpuZmb4qXI++uR6Fvi35Rb6rqiq+kML1vQDXozy4HgW/uB4Fv7geBb+4HgW/CCb6vhFM9L4acu6+Ipjoviu+4r4z5Ny+PArXvry7u74c6LS+VeOlvi6ynb4/Cpe+W4+CvhyFa76C61G+JlwPvorC9b0M16O+uB6Fvs3MTL6wdBO9CNejPAjXIz2MwnU90MzMPdDMzD0A1yO96FE4vihcj764HoW+uB6Fvrgehb64HoW+uB6Fvrgehb64HoW+uB6Fvrgehb7w7m6+nzZQvu9ROL4cheu9nJmZvWDCdbw+Ctc+HoXrPq5H4T4+Ctc+CtejPrBHYT6AwnW9EoNAvtSjcL7gepS+1qOwvrBHYb48Cte+PArXvmyg075cj8K+6FE4vrgehT4ehes+KVwPP+J6FD/iehQ/4noUPylcDz+4HgU/AAAAPx6F6z4+Ctc+XY/CPsP1qD6amZk+rkdhPutROD4O16M9lsJ1PVB02jsA16M8ENejvdDMzL0A1yO9ANcjvQDXozwehes9mpkZPq5HYT65HoU+mpmZPoslvz6cNtA+rUfhPr5Y8j7otAE/nhUNP4QMFT9qAx0/UPokPzbxLD8b6DQ/Ad88P+fVRD+F61E/z/dTPxkEVj9iEFg/rBxaP/YoXD/2KFw/PgpXP/YoXD8Urkc/0wY6P0t+MT/C9Sg/cD0KP65H4T7MzMw+kMJ1PszMTD4oXA8+0MxMvg==" envDec_numerator="4" envDec_syncmode="0" envHold_syncmode="0" a2_ltune="0" envHold_numerator="4" a1_mult="4" envAtt_numerator="4" b2_ltune="0" b1_mult="1" b2_rtune="0" b2_mult="2" b2_pan="0" envAtt_denominator="4" b1_ltune="0" envDec_denominator="4" b1_vol="22">
+          <key/>
+        </watsyn>
+      </instrument>
+      <eldata fcut="2353" fres="1.09" fwet="1" ftype="11">
+        <elvol lspd_numerator="4" sustain="1" latt="0" lamt="0" x100="0" pdel="0" rel="0.112" hold="0" lshp="0" userwavefile="" dec="0" att="0.08" lspd_syncmode="0" lspd_denominator="4" lpdel="0" lspd="0.1" ctlenvamt="0" amt="1"/>
+        <elcut lspd_numerator="4" sustain="0" latt="0" lamt="0" x100="0" pdel="0" rel="0" hold="0" lshp="0" userwavefile="" dec="0.224" att="0.16" lspd_syncmode="0" lspd_denominator="4" lpdel="0" lspd="0.1" ctlenvamt="0" amt="1"/>
+        <elres lspd_numerator="4" sustain="0.5" latt="0" lamt="0" x100="0" pdel="0" rel="0.1" hold="0.5" lshp="0" userwavefile="" dec="0.5" att="0" lspd_syncmode="0" lspd_denominator="4" lpdel="0" lspd="0.1" ctlenvamt="0" amt="0"/>
+      </eldata>
+      <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+      <arpeggiator arprepeats="1" arp-enabled="0" arprange="1" arpskip="0" arpmiss="0" arptime_syncmode="0" arpmode="0" arptime_numerator="4" arptime="200" arpgate="100" arpcycle="0" arp="0" arptime_denominator="4" arpdir="0"/>
+      <fxchain numofeffects="7" enabled="1">
+        <effect name="ladspaeffect" wet="1" autoquit="1" autoquit_denominator="4" on="1" autoquit_syncmode="0" autoquit_numerator="4" gate="0">
+          <ladspacontrols ports="44">
+            <port04 data="0"/>
+            <port05 data="1"/>
+            <port06 data="1"/>
+            <port015>
+              <data value="66.874" scale_type="log" id="9419"/>
+            </port015>
+            <port016>
+              <data value="447.214" scale_type="log" id="29298"/>
+            </port016>
+            <port017>
+              <data value="2990.7" scale_type="log" id="10407"/>
+            </port017>
+            <port018 data="1"/>
+            <port019 data="0.250732"/>
+            <port020 data="1"/>
+            <port021>
+              <data value="94.5742" scale_type="log" id="26987"/>
+            </port021>
+            <port022>
+              <data value="94.5742" scale_type="log" id="16833"/>
+            </port022>
+            <port023 data="1"/>
+            <port024 data="2.75"/>
+            <port025 data="0"/>
+            <port028 data="0"/>
+            <port029 data="0"/>
+            <port030 data="0.278478"/>
+            <port031 data="20"/>
+            <port032>
+              <data value="0.01" scale_type="log" id="14548"/>
+            </port032>
+            <port033>
+              <data value="0.01" scale_type="log" id="29498"/>
+            </port033>
+            <port034 data="18.9"/>
+            <port035 data="8"/>
+            <port036 data="1"/>
+            <port039 data="0"/>
+            <port040 data="0"/>
+            <port041 data="0.0649365"/>
+            <port042 data="20"/>
+            <port043>
+              <data value="0.01" scale_type="log" id="21053"/>
+            </port043>
+            <port044>
+              <data value="100" scale_type="log" id="24691"/>
+            </port044>
+            <port045 data="37.2487"/>
+            <port046 data="8"/>
+            <port047 data="1"/>
+            <port050 data="0"/>
+            <port051 data="0"/>
+            <port052 data="0.00499512"/>
+            <port053 data="20"/>
+            <port054>
+              <data value="0.01" scale_type="log" id="19106"/>
+            </port054>
+            <port055>
+              <data value="94.5742" scale_type="log" id="2922"/>
+            </port055>
+            <port056 data="64"/>
+            <port057 data="8"/>
+            <port058 data="1"/>
+            <port061 data="0"/>
+            <port062 data="0"/>
+            <port063 data="0"/>
+          </ladspacontrols>
+          <key>
+            <attribute value="veal" name="file"/>
+            <attribute value="MultibandCompressor" name="plugin"/>
+          </key>
+        </effect>
+        <effect name="ladspaeffect" wet="1" autoquit="1" autoquit_denominator="4" on="1" autoquit_syncmode="0" autoquit_numerator="4" gate="0">
+          <ladspacontrols ports="15">
+            <port04 data="0"/>
+            <port05 data="37.6425"/>
+            <port06 data="2"/>
+            <port015 data="1"/>
+            <port016 data="6.90525"/>
+            <port017 data="10"/>
+            <port018>
+              <data value="20000" scale_type="log" id="20900"/>
+            </port018>
+            <port019>
+              <data value="10" scale_type="log" id="19026"/>
+            </port019>
+            <port020>
+              <data value="20000" scale_type="log" id="18471"/>
+            </port020>
+            <port021>
+              <data value="10" scale_type="log" id="21951"/>
+            </port021>
+            <port022>
+              <data value="5507.37" scale_type="log" id="20035"/>
+            </port022>
+            <port023 data="1.275"/>
+            <port024>
+              <data value="5.3559" scale_type="log" id="13361"/>
+            </port024>
+            <port025 data="0"/>
+            <port026 data="0"/>
+          </ladspacontrols>
+          <key>
+            <attribute value="veal" name="file"/>
+            <attribute value="Saturator" name="plugin"/>
+          </key>
+        </effect>
+        <effect name="ladspaeffect" wet="1" autoquit="1" autoquit_denominator="4" on="1" autoquit_syncmode="0" autoquit_numerator="4" gate="0">
+          <ladspacontrols ports="6" link="1">
+            <port01 link="1">
+              <data value="278.014" scale_type="log" id="3703"/>
+            </port01>
+            <port02 link="1" data="0.15469"/>
+            <port03 link="1" data="1"/>
+            <port11>
+              <data value="278.014" scale_type="log" id="17803"/>
+            </port11>
+            <port12 data="0.15469"/>
+            <port13 data="1"/>
+          </ladspacontrols>
+          <key>
+            <attribute value="caps" name="file"/>
+            <attribute value="AutoWah" name="plugin"/>
+          </key>
+        </effect>
+        <effect name="ladspaeffect" wet="1" autoquit="1" autoquit_denominator="4" on="1" autoquit_syncmode="0" autoquit_numerator="4" gate="0">
+          <ladspacontrols ports="10">
+            <port04 data="0"/>
+            <port05 data="1"/>
+            <port06 data="1"/>
+            <port07 data="1"/>
+            <port012 data="7.525"/>
+            <port013 data="0"/>
+            <port015>
+              <data value="4898.98" scale_type="log" id="19283"/>
+            </port015>
+            <port016 data="0"/>
+            <port017 data="0"/>
+            <port018>
+              <data value="16817.9" scale_type="log" id="6483"/>
+            </port018>
+          </ladspacontrols>
+          <key>
+            <attribute value="veal" name="file"/>
+            <attribute value="Exciter" name="plugin"/>
+          </key>
+        </effect>
+        <effect name="ladspaeffect" wet="1" autoquit="1" autoquit_denominator="4" on="1" autoquit_syncmode="0" autoquit_numerator="4" gate="0">
+          <ladspacontrols ports="4">
+            <port02 data="0.999"/>
+            <port03 data="0"/>
+            <port04 data="0.0005"/>
+            <port05 data="0.12125"/>
+          </ladspacontrols>
+          <key>
+            <attribute value="caps" name="file"/>
+            <attribute value="Plate2x2" name="plugin"/>
+          </key>
+        </effect>
+        <effect name="eq" wet="1" autoquit="1" autoquit_denominator="4" on="1" autoquit_syncmode="0" autoquit_numerator="4" gate="0">
+          <Eq Peak3active="0" Lowshelfgain="7.92" LP12="1" HPactive="0" Peak1bw="2.7" HighShelfres="0.55" Peak4active="0" LPactive="0" Lowshelfactive="1" LPres="0.707" Peak4bw="0.3" HP24="0" LP48="0" Peak2bw="0.3" Peak3bw="0.3" Peak3gain="1.44" Outputgain="0" HPres="0.707" Peak2active="0" LP24="0" AnalyseOut="1" HP12="1" LP="0" LowShelfres="0.55" Highshelfactive="1" Peak4gain="0" HighShelfgain="8.46" HP48="0" Peak2gain="0" Peak1active="1" HP="0" AnalyseIn="1">
+            <Inputgain value="0" scale_type="log" id="4557"/>
+            <Peak1gain value="0.36" scale_type="log" id="16017"/>
+            <HPfreq value="21.4468" scale_type="log" id="13330"/>
+            <LowShelffreq value="784.085" scale_type="log" id="8084"/>
+            <Peak1freq value="184.437" scale_type="log" id="30161"/>
+            <Peak2freq value="250" scale_type="log" id="28547"/>
+            <Peak3freq value="1852.24" scale_type="log" id="31005"/>
+            <Peak4freq value="4000" scale_type="log" id="29804"/>
+            <Highshelffreq value="2357.84" scale_type="log" id="1435"/>
+            <LPfreq value="18000" scale_type="log" id="9835"/>
+          </Eq>
+          <key/>
+        </effect>
+        <effect name="ladspaeffect" wet="1" autoquit="1" autoquit_denominator="4" on="1" autoquit_syncmode="0" autoquit_numerator="4" gate="0">
+          <ladspacontrols ports="12" link="1">
+            <port01 link="1" data="0"/>
+            <port02 link="1" data="10"/>
+            <port03 data_syncmode="0" data_denominator="4" link="1" data="46.2038" data_numerator="4"/>
+            <port04 data_syncmode="0" data_denominator="4" link="1" data="1000" data_numerator="4"/>
+            <port05 link="1" data="-23.12"/>
+            <port06 link="1" data="1"/>
+            <port11 data="0"/>
+            <port12 data="10"/>
+            <port13 data_syncmode="0" data_denominator="4" data="46.2038" data_numerator="4"/>
+            <port14 data_syncmode="0" data_denominator="4" data="1000" data_numerator="4"/>
+            <port15 data="-23.12"/>
+            <port16 data="1"/>
+          </ladspacontrols>
+          <key>
+            <attribute value="caps" name="file"/>
+            <attribute value="Compress" name="plugin"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
